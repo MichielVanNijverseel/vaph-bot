@@ -1,0 +1,1073 @@
+stoornisnaam;stoorniscode;stoorniscontext
+Tuberculose, long-;A15;Chronische longinfectie die leidt tot verminderde inspanningscapaciteit, dyspneu en beperkingen in mobiliteit en uithouding.
+Tuberculose, miliaire;A19;Systemische infectie met algemene verzwakking, koorts en verminderde belastbaarheid, wat functioneren en zelfzorg hindert.
+Brucellose;A23;Infectie die langdurige koorts, gewrichtspijn en vermoeidheid veroorzaakt met impact op energie en dagelijkse activiteiten.
+Leptospirose;A27;Systemische infectie die spierpijn, koorts en vermoeidheid geeft, wat fysieke inspanning bemoeilijkt.
+Tetanus;A35;Zware neuromusculaire aandoening met spierkrampen, slikproblemen en mobiliteitsbeperkingen.
+Waterhouse-Friderichsen, syndroom van-;A391;Acute bijnierinsufficiëntie na infectie met blijvende vermoeidheid en fysieke beperkingen.
+Gangreen (gas-);A480;Weefselversterf met risico op amputatie, mobiliteitsverlies en nood aan hulpmiddelen.
+Syfilis, congenitale;A50;Aangeboren infectie met mogelijke neurologische of motorische restletsels en functionele beperkingen.
+Syfilis, secundaire en tertiaire;A52;Gevorderde infectie met neurologische en cardiovasculaire schade die mobiliteit en cognitie kan aantasten.
+Herpes, anogenitaal;A60;Recidiverende pijn en ongemak die mobiliteit, zelfzorg en participatie kunnen beïnvloeden.
+Slow-virusinfekties van het centraal zenuwstelsel;A81;Progressieve neurologische achteruitgang met motorische en cognitieve beperkingen.
+Herpes simplex infecties huid en mucosa (excl.A60);B00;Chronische of recidiverende letsels die pijn of visuele beperkingen kunnen geven.
+Herpes zoster (incl. zona);B02;Pijnlijke zenuwaandoening met mogelijke postherpetische neuralgie die mobiliteit en dagelijkse activiteiten beperkt.
+Hepatitis, chronische virale;B18;Chronische leverziekte met vermoeidheid, zwakte en beperkte belastbaarheid.
+AIDS en ARC (excl.R75);B24;Immunodeficiëntie met opportunistische infecties en verminderde fysieke en cognitieve belastbaarheid.
+Mononucleosis infectiosa;B27;Langdurige vermoeidheid en verminderde inspanningscapaciteit die dagelijkse taken bemoeilijken.
+Mycosen;B35;Chronische huid- of nagelinfecties die pijn, ongemak of mobiliteitsproblemen kunnen geven.
+Malaria;B50;Systemische infectie met koorts, anemie en vermoeidheid die fysieke activiteit beperkt.
+Leishmaniase;B55;Chronische infectie met huid- of orgaanschade, leidend tot verminderde belastbaarheid.
+Trypanosomiase;B56;Neurologische en systemische aantasting met functionele beperkingen in mobiliteit en cognitie.
+Toxoplasmose;B58;Kan neurologische symptomen of visuele beperkingen veroorzaken indien ernstig of aangeboren.
+Tuberculose, sequelae NEG (excl. B900-902);B90;Restletsels na tuberculose met blijvende long- of algemene fysieke beperkingen.
+Tuberculose centrale zenuwstelsel, sequelae;B900;Neurologische restletsels met cognitieve of motorische beperkingen.
+Tuberculose urogenitaal, sequelae;B901;Restschade aan urinewegen met impact op continentie en zelfzorg.
+Tuberculose bot en gewricht, sequelae;B902;Structurele schade leidend tot chronische pijn en mobiliteitsbeperkingen.
+Poliomyelitis, sequelae;B91;Spierzwakte en verlammingen die mobiliteit, evenwicht en zelfredzaamheid sterk beïnvloeden.
+Lepra, sequelae;B92;Neurologische beschadiging met gevoelsverlies en motorische beperkingen.
+Infectieuze of parasitaire aandoeningen, sequelae;B94;Langdurige functionele problemen zoals vermoeidheid, pijn of orgaanschade.
+Tumor, kwaadaardig, lip, mondholte en farynx;C00;Aantasting van spreken, slikken en voeding met functionele gevolgen.
+Tumor, kwaadaardig, spijsverteringsstelsel;C15;Gewichtsverlies, pijn en verminderde opname leiden tot beperkte belastbaarheid.
+Tumor, kwaadaardig, ademhalingsstelsel en intrathoracale organen;C30;Beperkte longfunctie en uithouding met grote impact op mobiliteit.
+Tumor, kwaadaardig, bot en kraakbeen;C40;Pijn, fracturen en ernstige mobiliteitsbeperkingen.
+Tumor, kwaadaardig, huid;C43;Uitgebreide huidletsels of metastasen kunnen pijn en functioneel verlies veroorzaken.
+Tumor, kwaadaardig, bindweefsel en weke weefsels;C45;Pijn, zwakte of bewegingsbeperking afhankelijk van locatie.
+Tumor, kwaadaardig, borstklier;C50;Pijn, vermoeidheid en postoperatieve beperkingen van armfunctie.
+Tumor, kwaadaardig, vrouwelijke geslachtsorganen;C51;Vermoeidheid, pijn en mobiliteitsbeperkingen afhankelijk van stadium en behandeling.
+Tumor, kwaadaardig, mannelijke geslachtsorganen;C60;Pijn, vermoeidheid en functionele beperkingen.
+Tumor, kwaadaardig, urinewegen;C64;Nierfalen, pijn en verminderde belastbaarheid.
+Tumor, kwaadaardig, oog en aanhangsels;C69;Visusbeperkingen met impact op oriëntatie en dagelijkse activiteiten.
+Tumor, kwaadaardig, meningen;C70;Neurologische beperkingen en verhoogde intracraniële druk.
+Tumor, kwaadaardig, hersenen;C71;Cognitieve, motorische en gedragsmatige beperkingen.
+Tumor, kwaadaardig, ruggemerg, craniale zenuwen;C72;Motorische uitval, sensibiliteitsverlies en mobiliteitsproblemen.
+Tumor, kwaadaardig, schildklier en andere endokriene klieren;C73;Hormonale ontregeling met vermoeidheid en cognitieve klachten.
+Tumor, kwaadaardig, ongekende oorsprong en metastasen;C76;Systemische uitzaaiingen met ernstige fysieke achteruitgang.
+Hodgkin, ziekte van-;C81;Vermoeidheid, pijn en verminderde inspanningscapaciteit door lymfeklierziekte.
+Lymfoma, non-Hodgkin;C82;Algemene zwakte, verminderde immuniteit en fysieke beperkingen.
+Immunoproliferatieve kwaadaardige aandoeningen;C88;Bloed- en immuunstoornissen die uithouding en mobiliteit beperken.
+Multipel myeloom;C90;Botpijn, fracturen en vermoeidheid met sterke impact op mobiliteit.
+Leukemie;C91;Ernstige vermoeidheid, infectiegevoeligheid en verminderde belastbaarheid.
+Hemangioom, elke lokalisatie;D180;Afhankelijk van locatie mogelijks pijn, functieverlies of visuele beperking.
+Lymfangioom, elke lokalisatie;D181;Zwelling en functieverlies, vooral bij lokalisaties in ledematen of hals.
+Melanoom;D22;Huidtumor met risico op metastasen en fysieke achteruitgang.
+Tumor, goedaardig, van meningen;D32;Kan druk op hersenen veroorzaken met hoofdpijn, cognitieve stoornissen of motorische beperkingen.
+Tumor, goedaardig, van hersenen en andere delen van CZS;D33;Afhankelijk van locatie kunnen motoriek, cognitie of zintuigen beperkt raken.
+Tumor, goedaardig, van schildklier;D34;Groei of hormonale ontregeling kan vermoeidheid, slikproblemen of ademhalingsklachten geven.
+Tumor, goedaardig, van andere endocriene klieren;D35;Hormonale disbalans kan leiden tot vermoeidheid, stemmingsklachten en beperkte belastbaarheid.
+Polycythemia vera;D45;Verhoogde bloedviscositeit met vermoeidheid, hoofdpijn en verminderde inspanningscapaciteit.
+Anemie, nutritioneel;D50;Vermoeidheid en verminderde uithouding door een laag hemoglobinegehalte.
+Anemie, hemolytisch tgv enzymstoornis;D55;Chronische vermoeidheid, kortademigheid en beperkte fysieke belastbaarheid.
+Anemie, hemolytisch tgv thalassemie;D56;Ernstige bloedarmoede met vermoeidheid, cognitieve vertraging en fysieke beperkingen.
+Anemie, hemolytisch tgv sikkelcel;D57;Pijncrises, vermoeidheid en mobiliteitsbeperkingen door vaso-occlusies.
+Anemie, hemolytisch tgv erfelijke aandoening;D58;Algemene vermoeidheid en inspanningsintolerantie.
+Anemie, hemolytische, verworven;D59;Verminderde inspanningscapaciteit door snelle afbraak van rode bloedcellen.
+Anemie, aplastische en andere;D60;Ernstige moeheid en infectierisico die functioneren beperken.
+Hemofilie A;D66;Bloedingsneiging die mobiliteit en fysieke activiteiten beperkt.
+Hemofilie B;D67;Herhaalde gewrichtsbloedingen leiden tot chronische pijn en mobiliteitsproblemen.
+Stollingsstoornissen, NEG;D68;Verhoogde bloedingsneiging met risico op gewrichtsschade en fysieke beperkingen.
+Purpura en andere hemorrhagische aandoeningen;D69;Pijn, bloeduitstortingen en verminderde inspanningscapaciteit.
+Agranulocytose;D70;Ernstige infectiegevoeligheid beperkt deelname aan dagelijkse activiteiten.
+Neutrofielen, functionele stoornissen van-;D71;Verminderde afweer met frequente infecties en vermoeidheid.
+Hypersplenisme;D731;Bloedafwijkingen die vermoeidheid en verminderde fysieke belastbaarheid veroorzaken.
+Polycythemia, secundair;D75;Verhoogde bloedviscositeit met hoofdpijn, duizeligheid en beperkte inspanningstolerantie.
+Immunodeficiëntie met antilichaamstoornissen;D80;Frequente infecties veroorzaken vermoeidheid en functionele beperkingen.
+Sarcoidose;D86;Long-, huid- of neurologische betrokkenheid kan mobiliteit en uithouding beperken.
+Aandoeningen waarbij het immuunsysteem betrokken is, NEG;D89;Systemische klachten zoals vermoeidheid en pijn beperken functioneren.
+Jodiumdeficiëntiesyndromen, congenitaal;E00;Cognitieve achterstand en groeiproblemen leiden tot langdurige functionele beperkingen.
+Hypothyreoidie;E03;Vermoeidheid, traagheid en cognitieve vertraging beperken dagelijkse activiteiten.
+Kropgezwel, niet-toxisch;E04;Mechanische hinder (slikken/ademen) mogelijk-vermoeidheid bij grote strumas.
+Hyperthyreoidie;E05;Vermoeidheid, tremor en gewichtsverlies met impact op uithouding en concentratie.
+Thyreoiditis;E06;Pijn, hormonale schommelingen en vermoeidheid beïnvloeden belastbaarheid.
+Diabetes, insulinodependent;E10;Risico op hypo-/hyperglycemie met gevolgen voor mobiliteit, cognitie en zelfzorg.
+Diabetes, niet insulinodependent;E11;Vermoeidheid, neuropathie en beperkte mobiliteit op lange termijn.
+Pancreas, endocriene stoornis;E16;Hormonale ontregeling leidt tot vermoeidheid, gewichtsverandering en autonome klachten.
+Hypoparathyreoidie;E20;Spierkrampen, tintelingen en vermoeidheid beperken functioneren.
+Hyperparathyroidie;E21;Botpijn, spierzwakte en vermoeidheid met impact op mobiliteit.
+Hyperfunktie van de hypofyse;E22;Hormonale ontregeling geeft spierzwakte, gewrichtsklachten en vermoeidheid.
+Hypopituïtarisme;E230;Chronische vermoeidheid, zwakte en cognitieve vertraging.
+Diabetes insipidus;E232;Ernstige dorst en frequente mictie beïnvloeden dagelijkse routine en belastbaarheid.
+Hypothalamusdysfunctie;E233;Regulatiestoornissen leiden tot vermoeidheid, temperatuurproblemen en cognitieve klachten.
+Adiposo-genitaal syndroom;E236;Obesitas, hypogonadisme en vermoeidheid beperken mobiliteit en dagelijkse activiteiten.
+Cushing, syndroom van-;E24;Spierzwakte, vermoeidheid en osteoporose veroorzaken fysieke beperkingen.
+Adrenogenitaal syndroom;E25;Hormonale stoornissen beïnvloeden groei, spierkracht en energie.
+Conn, syndroom van-;E26;Spierzwakte en hypertensie beïnvloeden inspanningsvermogen.
+Bijnierschorsinsufficiëntie, primair;E271;Ernstige vermoeidheid en zwakte met impact op zelfzorg en mobiliteit.
+Stein-Leventhal syndroom;E28;Hormoonstoornis met vermoeidheid en verminderde fysieke prestatie.
+Testiculaire dysfunctie;E29;Vermoeidheid, spierzwakte en verminderde belastbaarheid door hormonale tekorten.
+Polyglandulaire dysfunctie, syndroom van Schmidt;E31;Meerdere endocriene tekorten leiden tot ernstige vermoeidheid en fysieke beperkingen.
+Carcinoid syndroom;E34;Vermoeidheid, diarree en flushing beperken dagelijks functioneren.
+Encephalopathie van Wernicke;E512;Cognitieve achteruitgang, oogbewegingsstoornissen en ataxie beperken functioneren.
+Malnutritie en voedingstekorten, sequelae;E64;Vermoeidheid, spierzwakte en beperkte inspanningstolerantie.
+Obesitas;E66;Verminderde mobiliteit, gewrichtsbelasting en uithoudingscapaciteit.
+Pickwick syndroom;E662;Ernstige ademhalingsstoornissen tijdens slaap en overdag, met verminderde uithouding.
+Aminozuren, aromatische-, metabole stoornis;E70;Cognitieve beperkingen en vermoeidheid kunnen functioneren belemmeren.
+Fenylketonurie;E700;Onbehandeld leidt dit tot verstandelijke beperking en motorische problemen.
+Alkaptonurie;E701;Zeldzame stofwisselingsziekte met gewrichtsdegeneratie en pijn die mobiliteit beperkt.
+Albinisme;E703;Visuele beperkingen en lichtgevoeligheid beïnvloeden oriëntatie en dagelijkse activiteiten.
+Aminozuren, vertakte keten-, metabole stoornis;E712;Kan neurologische achteruitgang, spierzwakte en ontwikkelingsvertraging veroorzaken.
+Vetzuren, metabole stoornis/adrenoleukodystrofie;E713;Progressieve neurologische achteruitgang met motorische en cognitieve beperkingen.
+Aminozuren, andere, metabole stoornis;E72;Kan cognitieve en motorische beperkingen veroorzaken afhankelijk van subtype.
+Koolhydraten, metabole en secretiestoornissen;E74;Leidt vaak tot vermoeidheid, hypoglycemie en cognitieve problemen.
+Glycogeenstapelingsziekte;E740;Spierzwakte, verminderde inspanningscapaciteit en hypoglycemie.
+Sfingolipiden, metabole stoornis;E75;Progressieve neurologische schade met mobiliteits- en cognitieve beperkingen.
+Glucosaminoglucaan, metabole stoornis;E76;Skeletafwijkingen en motorische beperkingen door stapelingsziekten.
+Glucoproteïnen, metabole stoornis;E77;Kan leiden tot ontwikkelingsvertraging, zwakte en cognitieve beperkingen.
+Lipoproteïnen en andere lipiden, metabole stoornis;E78;Verhoogd risico op cardiovasculaire problemen en verminderde uithouding.
+Purine en pyrimidine, metabole stoornis;E79;Kan jicht, neurologische complicaties of vermoeidheid veroorzaken.
+Bilirubine en porfyrine, metabole stoornis;E80;Lichtgevoeligheid, pijn en vermoeidheid beïnvloeden dagelijkse activiteiten.
+Mineralen, metabole stoornis;E83;Afwijkingen in calcium, fosfaat of andere mineralen leiden tot spierzwakte en botproblemen.
+Wilson, ziekte van- (koper);E830;Neurologische en motorische achteruitgang met tremor en spraakproblemen.
+Hemochromatose (ijzer);E831;Vermoeidheid, gewrichtspijn en orgaanschade beperken belastbaarheid.
+Acrodermatitis enterohepatica (zink);E832;Huidproblemen, diarree en groeivertraging beïnvloeden functioneren.
+Mucoviscidose;E84;Long- en pancreasproblemen leiden tot verminderde uithouding en frequente infecties.
+Amyloïdose;E85;Organschade en neuropathie veroorzaken vermoeidheid en mobiliteitsproblemen.
+Alfa-1-antitrypsinedeficiëntie;E880;Longaantasting met kortademigheid en beperkte fysieke inspanning.
+Lipodystrofie;E881;Metabole ontregeling met vermoeidheid en verminderde belastbaarheid.
+Verstandelijke handicap, lichte;F70;Milde cognitieve beperkingen die leren en zelfstandig functioneren beïnvloeden.
+Verstandelijke handicap, matige;F71;Duidelijke beperkingen in zelfzorg, communicatie en sociale participatie.
+Verstandelijke handicap, ernstige;F72;Ernstige beperkingen in motoriek, taal en zelfstandigheid.
+Verstandelijke handicap, diepe;F73;Zeer ernstige algemene ontwikkelingsbeperkingen met volledige afhankelijkheid.
+Zwakbegaafdheid;F79;Onder gemiddelde cognitieve capaciteiten met beperkte zelfstandigheid.
+Specifieke leesstoornis (dyslexie);F810;Beperkt lezen en verwerken van geschreven informatie.
+Specifieke stoornis van rekenvaardigheden;F812;Beperkt rekenen en numerieke verwerking, beïnvloedt schoolse vaardigheden.
+Dysgrafie/dysorthografie;F818;Schrijfproblemen die schoolse en administratieve taken hinderen.
+Leerstoornis NAO;F819;Algemene leerproblemen die functioneren en participatie beïnvloeden.
+Developmental Coordination Disorder (DCD);F82;Motorische onhandigheid met impact op dagelijkse handelingen.
+Expressieve taalstoornis;F801;Moeite met uitdrukken in taal, beperkt communicatie en participatie.
+Gemengd receptieve-expressieve taalstoornis;F808;Beperkte taalbegrip en taalproductie met sociale impact.
+Fonologische stoornis;F800;Spraakklankproblemen beïnvloeden verstaanbaarheid en communicatie.
+Stotteren;F985;Verstoorde spraakvloeiendheid, beïnvloedt communicatie en participatie.
+Communicatiestoornis NAO;F809;Algemene communicatieproblemen die sociale interactie beperken.
+Autismespectrumstoornis (ASS);F840;Beperkingen in sociale communicatie en flexibiliteit, beïnvloeden functioneren breed.
+Syndroom van Rett;F842;Ernstige cognitieve en motorische achteruitgang, meestal volledig afhankelijk.
+Desintegratiestoornis op kinderleeftijd;F843;Gevorderd verlies van verworven vaardigheden, met zware functionele beperkingen.
+Syndroom van Asperger;F845;Beperkingen in sociale interactie en flexibel gedrag, vaak normale intelligentie.
+Pervasieve ontwikkelingsstoornis NAO;F848;Brede ontwikkelingsproblemen beïnvloeden communicatie en sociale vaardigheden.
+Autisme, atypisch;F849;Niet-volledig ASS-profiel met aanzienlijke beperkingen in sociale interactie.
+Stoornis van activiteit en aandacht;F900;Aandachts- en impulscontroleproblemen met impact op school en planning.
+Hyperkinetische gedragsstoornis;F901;Ernstige hyperactiviteit en impulsiviteit hinderen functioneren.
+Gespecificeerde hyperkinetische stoornis;F908;Aandachts- en gedragsproblemen met beperkingen in leren en sociale interactie.
+Niet gespecificeerde hyperkinetische stoornis;F909;Algemene aandachts- en gedragsproblemen met functionele impact.
+Gedragsstoornis, oppositioneel-opstandig;F913;Conflictgedrag beïnvloedt sociale relaties en schoolse participatie.
+Overige gespecifieerde gedragsstoornissen;F918;Agressie, normoverschrijding en sociale beperkingen.
+Gedragsstoornissen, niet gespecificeerd;F919;Onvoldoende omschreven gedragsproblemen die functioneren hinderen.
+Depressieve gedragsstoornis (kinderen);F920;Somberheid, verlies aan interesse en verminderde sociale participatie.
+Gemengde stoornis van gedrag en emotie;F929;Combinatie van emotionele en gedragsproblemen die functioneren beperken.
+Separatie-angststoornis;F930;Ernstige angst bij scheiding die schoolgang en sociale activiteiten belemmert.
+Sociale-angststoornis op kinderleeftijd;F932;Ernstige sociale angst die schoolgang, contacten en participatie belemmert.
+Reactieve hechtingsstoornis op kinderleeftijd;F941;Problemen in sociale interactie door gestoorde hechting, leidt tot relationele beperkingen.
+Ontremde hechtingsstoornis op kinderleeftijd;F942;Overmatige familiariteit met vreemden en impulsief gedrag, met sociale risico’s.
+Stereotiepe-bewegingsstoornis;F984;Repetitieve bewegingen die functioneren en veiligheid kunnen beïnvloeden.
+Tics, chronische, motorische of vocale;F951;Aanhoudende tics met impact op concentratie en sociale participatie.
+Ziekte van Gilles de la Tourette;F952;Complexe tics en gedragsproblemen die participatie en functioneren bemoeilijken.
+Enuresis (niet somatisch);F980;Ongewild urineverlies dat psychosociale stress en sociale beperkingen veroorzaakt.
+Encopresis (niet somatisch);F981;Ongewild ontlastingsverlies dat zelfbeeld en sociale participatie belemmert.
+Dementie van het Alzheimertype;F00;Progressieve cognitieve achteruitgang met ernstige beperkingen in dagelijks functioneren.
+Vasculaire dementie;F01;Cognitieve uitval door vaatproblemen, met impact op planning, geheugen en mobiliteit.
+Dementie (overig);F02;Aanhoudende cognitieve achteruitgang die zelfstandigheid sterk beperkt.
+Amnestische stoornis;F04;Geheugenstoornissen die dagelijkse activiteiten en nieuwe leerprocessen hinderen.
+Organische hallucinose / waanstoornis;F06;Psychotische symptomen door organische oorzaak, die realiteitszin en functioneren aantasten.
+Organische persoonlijkheidsstoornis;F070;Gedragsverandering en impulsiviteit door hersenletsel, met sociale beperkingen.
+Postcommotioneel syndroom;F072;Aanhoudende klachten na hersentrauma, zoals hoofdpijn, concentratiestoornissen en vermoeidheid.
+Alcoholmisbruik;F101;Functionele beperkingen door frequent gebruik, met risico op sociale en medische problemen.
+Alcoholafhankelijkheid;F102;Verslaving met controleverlies en ernstige impact op functioneren.
+Syndroom van Korsakoff;F106;Ernstige geheugenstoornis door alcohol, leidt tot blijvende afhankelijkheid.
+Alcoholische dementie;F107;Cognitieve achteruitgang door alcoholmisbruik die zelfstandigheid beperkt.
+Psychische stoornissen door opioïden;F11;Cognitieve, gedrags- en functionele problemen door middelengebruik.
+Psychische stoornissen door cannabis;F12;Angst, psychose of motivatieproblemen die functioneren hinderen.
+Stoornissen door sedativa/hypnotica;F13;Verslaving of intoxicatie die cognitieve en motorische functies beïnvloedt.
+Stoornissen door cocaïne;F14;Impulsiviteit, cardiovasculaire risico’s en psychotische symptomen.
+Stoornissen door stimulantia incl. cafeïne;F15;Overactiviteit, angst of psychose met functionele beperkingen.
+Stoornissen door hallucinogenen;F16;Perceptiestoornissen en angst die functioneren belemmeren.
+Stoornissen door tabak;F17;Nicotineafhankelijkheid met gezondheidsimpact en verminderde inspanningstolerantie.
+Stoornissen door vluchtige oplosmiddelen;F18;Neurologische en cognitieve schade die functioneren beperkt.
+Stoornissen door meervoudig drugsgebruik;F19;Ernstige verslavingsproblemen die breed functioneren aantasten.
+Schizofrenie;F20;Psychotische episodes, cognitieve problemen en sociaal-functionele beperkingen.
+Schizofrenie, paranoïde type;F200;Aanhoudende wanen en hallucinaties die functioneren sterk beïnvloeden.
+Schizofrenie, gedesorganiseerd type;F201;Chaotisch denken en gedrag met sterke beperkingen in dagelijks functioneren.
+Schizofrenie, katatoon type;F202;Motorische symptomen met risico op immobiliteit of agitatie.
+Schizofrenie, ongedifferentieerd type;F203;Gemengde psychotische symptomen die participatie belemmeren.
+Schizofrenie, resttype;F205;Afbouw van motivatie en sociaal functioneren na eerdere psychotische episodes.
+Depressieve episode, recidiverend;F33;Herhaaldelijke depressies met vermoeidheid en verlies aan functioneren.
+Dysthyme stoornis;F341;Chronisch depressief beeld met langdurige beperkingen in energie en motivatie.
+Depressieve stoornis NAO;F329;Depressieve klachten die functioneren en participatie belemmeren.
+Bipolaire stoornis;F31;Afwisselende manische en depressieve episodes met grote impact op stabiliteit.
+Cyclothyme stoornis;F340;Lichte, chronische stemmingsschommelingen die werk en relaties beïnvloeden.
+Paniekstoornis met agorafobie;F400;Angstaanvallen met vermijdingsgedrag, vermindert zelfstandige mobiliteit.
+Paniekstoornis zonder agorafobie;F410;Plotselinge angstaanvallen die functioneren onder druk zetten.
+Sociale fobie;F401;Ernstige sociale angst met beperking in werk, school en sociale contacten.
+Specifieke fobie;F402;Sterke angst voor specifieke situaties, belemmert activiteiten.
+Obsessieve-compulsieve stoornis;F428;Dwanghandelingen en -gedachten die tijd kosten en functioneren beperken.
+Gegeneraliseerde angststoornis;F411;Chronische angst en piekeren met vermoeidheid en concentratieproblemen.
+Angststoornis door somatische oorzaak;F064;Angst door lichamelijke aandoening die dagelijkse activiteiten beïnvloedt.
+Angststoornis NAO;F419;Aanhoudende angstklachten die functioneren beperken.
+Posttraumatische stressstoornis (PTSS);F431;Herbelevingen, hyperalertheid en vermijding met grote impact op functioneren.
+Aanpassingsstoornissen;F432;Emotionele en gedragsmatige problemen na stressor, beperken adaptatie.
+Somatisatiestoornis;F450;Veelvuldige lichamelijke klachten zonder somatische oorzaak, met functionele beperkingen.
+Ongedifferentieerde somatoforme stoornis;F451;Aanhoudende lichamelijke klachten die functioneren hinderen.
+Conversiestoornis;F44;Neurologische symptomen zonder medische oorzaak die mobiliteit, gevoel of spraak kunnen beperken.
+Pijnstoornis;F454;Aanhoudende pijn met duidelijke functionele beperkingen in mobiliteit en dagelijks functioneren.
+Hypochondrie;F452;Overmatige bezorgdheid over ziekte die functioneren en participatie belemmert.
+Stoornis in de lichaamsbeleving;F458;Verstoorde lichaamservaring met emotionele en sociale impact.
+Somatoforme stoornis NAO;F459;Lichamelijke klachten zonder medische verklaring die dagelijkse activiteiten hinderen.
+Neurasthenie / chronisch vermoeidheidssyndroom;F480;Aanhoudende uitputting met ernstige beperkingen in inspanningsvermogen.
+Dissociatieve amnesie;F440;Plots geheugenverlies dat functioneren en veiligheid kan beïnvloeden.
+Dissociatieve fugue;F441;Onverwachte reizen met geheugenverlies, verstorend voor sociale en praktische stabiliteit.
+Dissociatieve identiteitsstoornis;F4481;Meerdere identiteiten met geheugenlacunes en sterke functionele impact.
+Depersonalisatie stoornis;F481;Gevoel van loskoppeling van zelf of omgeving, verstoort concentratie en sociale participatie.
+Dissociatieve stoornis NAO;F449;Lichamelijke of psychische ontkoppeling met functionele beperkingen.
+Seksuele dysfuncties (niet-organisch);F52;Psychogene seksuele problemen die relaties en welzijn kunnen beïnvloeden.
+Parafilieën;F65;Atypische seksuele gedragingen die sociale en juridische risico’s veroorzaken.
+Anorexia nervosa;F500;Ernstig gewichtsverlies met lichamelijke en cognitieve beperkingen.
+Bulimia nervosa;F502;Eetbuien en compensatiegedrag, met emotionele en lichamelijke impact.
+Slaapstoornis (niet-organisch);F51;Problemen met slapen die vermoeidheid en concentratieproblemen veroorzaken.
+Periodieke explosieve stoornis;F638;Impulsieve agressie-uitbarstingen die sociale participatie hinderen.
+Kleptomanie;F632;Onweerstaanbare drang tot stelen, met juridische en sociale gevolgen.
+Pyromanie;F631;Impulsieve drang om vuur te stichten, risicovol voor omgeving.
+Gokken, pathologisch;F630;Verslaving aan gokken met financiële en psychosociale beperkingen.
+Trichotillomanie;F633;Haaruittrekgedrag dat functioneren en zelfbeeld beïnvloedt.
+Stoornis van impulsbeheersing NAO;F639;Algemene impulscontroleproblemen die gedrag en functioneren beïnvloeden.
+Aanpassingsstoornis;F43;Emotionele stressreactie met impact op werk, relaties en motivatie.
+Paranoïde persoonlijkheidsstoornis;F600;Wantrouwen dat sociale relaties en participatie beperkt.
+Schizoïde persoonlijkheidsstoornis;F6010;Teruggetrokkenheid en beperkte sociale interactie met functionele gevolgen.
+Schizotypische persoonlijkheidsstoornis;F21;Excentriek gedrag en sociale problemen door cognitieve verstoringen.
+Antisociale persoonlijkheidsstoornis;F602;Agressie, impulsiviteit en normoverschrijding met sociale beperkingen.
+Borderline persoonlijkheidsstoornis;F6031;Emotieregulatieproblemen en impulsiviteit die relaties en functioneren verstoren.
+Theatrale persoonlijkheidsstoornis;F604;Overmatige emotionaliteit die werk en relaties beïnvloedt.
+Narcistische persoonlijkheidsstoornis;F608;Kwetsbaar zelfbeeld en conflictgevoeligheid met sociale beperkingen.
+Ontwijkende persoonlijkheidsstoornis;F606;Ernstige sociale angst en vermijding die participatie beperken.
+Afhankelijke persoonlijkheidsstoornis;F607;Verminderde autonomie en grote afhankelijkheid in dagelijkse situaties.
+Obsessief-compulsieve persoonlijkheidsstoornis;F605;Perfectionisme en rigiditeit die efficiënt functioneren beperken.
+Persoonlijkheidsstoornis NAO;F609;Persisterende patronen die functioneren en relaties verstoren.
+Late gevolgen ontstekingen CZS;G09;Neurologische restklachten met motorische of cognitieve beperkingen.
+Chorea van Huntington;G10;Progressieve motorische en cognitieve achteruitgang.
+Hereditaire ataxie;G11;Evenwichts- en coördinatieproblemen die mobiliteit sterk beperken.
+Spinale spieratrofie;G12;Progressieve spierzwakte die mobiliteit en zelfzorg beïnvloedt.
+Werdnig-Hoffmann;G120;Ernstige infantiele spieratrofie met grote motorische beperkingen.
+Kugelberg-Welander;G121;Mildere SMA-vorm met progressieve loop- en krachtproblemen.
+Amyotrofische lateraalsclerose (ALS);G122;Progressief spierverlies met ernstige mobiliteits- en ademhalingsbeperkingen.
+Ziekte van Parkinson;G20;Tremor, rigiditeit en traagheid die mobiliteit en zelfzorg beperken.
+Parkinsonisme, secundair;G21;Parkinsonachtige klachten door andere oorzaak, met motorische beperkingen.
+Basale ganglia aandoeningen NEG;G23;Bewegingsstoornissen die coördinatie en mobiliteit beïnvloeden.
+Dystonie, dyskinesie;G24;Onwillekeurige spiersamentrekkingen die houding en handelingen verstoren.
+Essentiële tremor;G250;Trillen dat fijne motoriek en dagelijkse activiteiten belemmert.
+Myoclonieën;G253;Plots spierschokken die functioneren en veiligheid beïnvloeden.
+Chorea (overig);G255;Onregelmatige bewegingen die mobiliteit en zelfzorg aantasten.
+Restless legs syndroom;G258;Onrustgevoelens in benen die slaap en functioneren beperken.
+Ziekte van Alzheimer (vroeg begin);G30;Progressieve dementie met sterke impact op dagelijks functioneren.
+Ziekte van Pick;G310;Frontotemporale dementie met gedrags- en taalproblemen.
+Alcoholische encephalopathie;G312;Cognitieve en neurologische schade door alcohol, met beperkingen in geheugen en executieve functies.
+Neurodegeneratieve aandoeningen, NEG;G319;Progressieve achteruitgang van zenuwstelsel met motorische en cognitieve beperkingen.
+Multiple sclerose;G35;Demyelinisatie met motorische, sensorische en cognitieve stoornissen.
+Demyeliniserende aandoeningen, andere;G37;Chronische zenuwschade met variabele motorische en sensorische uitval.
+Idiopathische partiële epilepsie;G400;Epileptische aanvallen die bewustzijn en functioneren verstoren.
+Symptomatische partiële epilepsie, eenvoudige aanvallen;G401;Gelokaliseerde aanvallen met motorische of sensorische beperkingen.
+Symptomatische partiële epilepsie, complexe aanvallen;G402;Bewustzijnsstoornissen en gedragsveranderingen tijdens aanvallen.
+Gegeneraliseerde idiopathische epilepsie;G403;Brede aanvallen met bewustzijnsverlies, beïnvloedt veiligheid en participatie.
+Gegeneraliseerde epilepsie (overige vormen);G404;Zware aanvalstypen zoals myoclonieën met hoge functionele impact.
+Epilepsie door externe factoren;G405;Aanvallen uitgelokt door alcohol, stress of medicatie met risico’s in dagelijks functioneren.
+Migraine;G43;Terugkerende hoofdpijn met gevoeligheid voor prikkels en tijdelijke beperkingen.
+Hoofdpijn anders dan migraine;G44;Chronische hoofdpijn die concentratie en draagkracht beperkt.
+TIA en verwante syndromen;G45;Kortdurende neurologische uitval die mobiliteit en cognitie tijdelijk beperkt.
+Slaapapneu syndroom;G473;Ademhalingsonderbrekingen tijdens slaap met ernstige vermoeidheid en concentratieverlies.
+Narkolepsie en kataplexie;G474;Plots slapen en spierslapte met grote impact op veiligheid.
+Aandoeningen nervus trigeminus;G50;Aangezichtspijn of gevoelsverlies met functionele hinder.
+Aandoeningen nervus facialis;G51;Gezichtsverlamming die spraak, mimiek en eten beïnvloedt.
+Aandoeningen zenuwen/plexus;G52;Gevoelsstoornissen of zwakte met motorische beperkingen.
+Plexus brachialis aandoeningen;G540;Armzwakte en gevoelsverlies die handelingen beperken.
+Plexus lumbosacralis aandoeningen;G541;Beenuitval en pijn die mobiliteit aantasten.
+Fantoompijn;G547;Pijnsensaties na amputatie die functioneren en mobiliteit beïnvloeden.
+Zenuwwortel/plexusletsel door tumor;G550;Drukschade met krachtverlies en pijn.
+Zenuwwortel/plexusletsel door discusafwijkingen;G551;Radiculaire pijn en uitval met mobiliteitsbeperkingen.
+Zenuwwortel/plexusletsel door spondylose;G552;Chronische zenuwbeknelling met gevoelsverlies en zwakte.
+Drophand;G56;Uitval van handextensoren, beperkt grijpen en fijne motoriek.
+Carpaal tunnel syndroom;G560;Tintelingen en krachtverlies hand, hindert dagelijkse activiteiten.
+Nervus ulnaris letsel;G562;Gevoelsverlies en zwakte pinkzijde hand.
+Nervus radialis letsel;G563;Uitval pols- en vingerextensie, belemmert grijpen.
+Nervus ischiadicus letsel;G570;Ernstige pijn en uitval in been met mobiliteitsproblemen.
+Nervus femoralis letsel;G572;Quadricepszwakte die stappen en traplopen belemmert.
+Nervus peroneus letsel;G573;Dropvoet met struikelrisico en mobiliteitsbeperking.
+Tarsaal tunnel syndroom;G575;Pijn en tintelingen voet met loopbeperkingen.
+Metatarsalgie van Morton;G576;Pijn voorvoet die lopen en staan beperkt.
+Erfelijke of idiopathische neuropathie;G60;Geleidelijke gevoelsstoornissen en zwakte in ledematen.
+Hereditaire motorisch-sensorische neuropathie;G600;Symmetrische spierzwakte met mobiliteitsproblemen.
+Ziekte van Refsum;G601;Neuropathie met ataxie en visuele stoornissen.
+Guillain-Barré syndroom;G610;Acuut verlammingsbeeld dat mobiliteit sterk beperkt.
+Inflammatoire polyneuropathie (overig);G61;Ontsteking zenuwen met krachtverlies en gevoelsstoornissen.
+Toxische polyneuropathie;G62;Schade door toxines met sensorische en motorische beperkingen.
+Alcoholische polyneuropathie;G621;Pijn en gevoelsverlies, krachtvermindering in benen.
+Diabetische polyneuropathie;G622;Symmetrisch gevoelsverlies en pijn, beïnvloedt mobiliteit.
+Myasthenia gravis;G700;Spiervermoeibaarheid met slik-, adem- en mobiliteitsproblemen.
+Spierdystrofie;G710;Progressieve spierzwakte met ernstige mobiliteitsbeperkingen.
+Myotonie;G711;Spierstijfheid die bewegingen vertraagt.
+Congenitale myopathieën;G712;Aangeboren spierzwakte met motorische beperkingen.
+Secundaire myopathie;G72;Spierzwakte door toxische of metabole oorzaken.
+Spastische cerebrale paralyse;G800;Aangeboren spasticiteit met ernstige motorische beperkingen.
+Cerebrale paralyse, diplegie;G801;Spasticiteit vooral benen met loopproblemen.
+Cerebrale paralyse, hemiplegie;G802;Krachtverlies één zijde lichaam met mobiliteits- en motorische beperkingen.
+Cerebrale paralyse, dyskinesie;G803;Onwillekeurige bewegingen die handelingen hinderen.
+Cerebrale paralyse, atactisch;G804;Coördinatieproblemen die loopvaardigheid beïnvloeden.
+Hemiplegie, hypotone;G810;Slappe verlamming van één lichaamshelft met ernstige motorische beperkingen.
+Hemiplegie, spastische;G811;Spastische verlamming één lichaamshelft die mobiliteit en armfunctie hindert.
+Hemiplegie, niet gespecificeerd;G812;Onvolledige verlamming één zijde met motorische beperkingen.
+Hemiparese;G819;Gedeeltelijke uitval van kracht en coördinatie aan één zijde.
+Paraplegie, hypotone;G820;Slappe verlamming van beide benen met mobiliteitsverlies.
+Paraplegie, spastische;G821;Spasticiteit in beide benen met ernstige loopbeperkingen.
+Paraplegie, niet gespecificeerd;G822;Dubbelzijdige beenverlamming met volledige of gedeeltelijke mobiliteitsbeperking.
+Tetraplegie, hypotone;G823;Slappe verlamming van alle ledematen met afhankelijkheid in ADL.
+Tetraplegie, spastische;G824;Spastische vierledematenverlamming met volledige mobiliteitsbeperking.
+Tetraplegie, niet gespecificeerd;G825;Uitval alle ledematen met zeer zware functionele impact.
+Diplegie bovenste ledematen;G830;Beperkte hand- en armfunctie door dubbelzijdige armuitval.
+Monoplegie onderste lidmaat;G831;Uitval of ernstige zwakte één been, beïnvloedt stappen.
+Monoplegie bovenste lidmaat;G832;Uitval of zwakte één arm, belemmert grijpen en ADL.
+Cauda equina syndroom;G834;Ernstige zenuwschade onderrug met gevoelsverlies en incontinentie.
+Carotissinus aandoening;G900;Bloeddrukinstabiliteit met risico op vallen en bewustzijnsverlies.
+Bernard-Horner syndroom;G902;Ooglid- en pupilafwijkingen, soms visuele beperkingen.
+Shy-Drager syndroom;G903;Autonome uitval met bloeddrukschommelingen en mobiliteitsproblemen.
+Hydrocefalie, verworven;G91;Druk op hersenen met loopstoornissen en cognitieve problemen.
+Encephalopathie, toxisch;G92;Cognitieve en neurologische schade door toxische stoffen.
+Porencephalie, verworven;G930;Hersenholtevorming met motorische en cognitieve beperkingen.
+Hersenanoxie, sequelae;G931;Schade door zuurstoftekort met blijvende cognitieve en motorische uitval.
+Hersen-/hersenstamcompressie;G935;Neurologische uitval door druk op hersenen.
+Hersenoedeem;G936;Zwelling van hersenen met neurologische beperkingen.
+Reye, syndroom van-;G937;Acute encefalopathie met blijvende neurologische schade.
+Syringomyelie of -bulbie;G950;Holtevorming in ruggenmerg met pijn en krachtverlies.
+Myelopathie, vasculair;G951;Ruggenmergaantasting door doorbloedingsproblemen met uitval.
+Myelopathie na bestraling;G958;Radiatieschade ruggenmerg met motorische beperkingen.
+Ooglidptose;H024;Hangend ooglid dat zicht belemmert.
+Conjunctivalittekens;H112;Littekenvorming die oogbeweging en zicht hindert.
+Keratitis;H16;Ontsteking hoornvlies met pijn en visusdaling.
+Cornealittekens en opaciteiten;H17;Troebelingen die zicht beperken.
+Hereditaire corneadystrofie;H185;Aangeboren corneatroebelingen met progressieve visusdaling.
+Keratoconus;H186;Verdunning cornea met vervormd zicht.
+Iridocyclitis;H20;Ontsteking iris/corpus ciliare met pijn en wazig zicht.
+Irisafwijkingen;H21;Structurele afwijkingen met lichtgevoeligheid of visuele hinder.
+Cataract, seniel;H25;Vertroebeling van lens met progressieve visusdaling.
+Cataract, ander;H26;Niet-seniele lensvertroebeling die zicht vermindert.
+Afakie, verworven;H270;Ontbreken van lens, met ernstige refractieproblemen.
+Lensluxatie;H271;Verplaatsing van lens met sterke visuele beperking.
+Cataract, diabetisch;H28;Lensvertroebeling door diabetes, verslechtert zicht.
+Chorioretinitis;H30;Ontsteking choroidea/retina met blijvende schade.
+Choroidea-aandoeningen;H31;Vaatafwijkingen retina/choroidea die zicht beïnvloeden.
+Retinaloslating/retinascheur;H33;Acuut gezichtsverlies, grote functionele impact.
+Retina, vaatafsluiting;H34;Plots visusverlies door arteriële of veneuze occlusie.
+Diabetische retinopathie (vasculair);H350;Beschadiging retina door diabetes met visusverlies.
+Retinopathie van prematuur;H351;Zichtproblemen door vroeggeboorte.
+Retinadegeneratie macula;H353;Centrale visusdaling, belemmert lezen/gezichtsherkenning.
+Retinadegeneratie perifeer;H354;Vernauwing gezichtsveld, obstakels moeilijk te zien.
+Hereditaire retinadystrofie;H355;Progressieve blindheid door netvliesdegeneratie.
+Retinopathie diabetisch;H360;Progressieve beschadiging retina door hyperglycemie.
+Glaucoom;H40;Drukschade oogzenuw met irreversibele gezichtsvelddefecten.
+Vitreumaandoeningen;H43;Glasvochtproblemen (floaters, bloedingen) met visuele hinder.
+Myopie, degeneratief;H442;Pathologische bijziendheid met risico op blindheid.
+Intraoculair vreemd voorwerp;H446;Schade door vreemd lichaam met verminderd zicht.
+Neuritis optica;H46;Ontsteking oogzenuw met acute visusdaling.
+Nervus opticus en optische banen, aandoeningen van- (excl. H46/H472);H47;Aandoeningen van oogzenuw of optische banen die zicht en gezichtsveld ernstig kunnen beperken.
+Papiloedeem;H471;Oogzenuwoedeem door verhoogde druk met visusstoornissen.
+Nervus opticus atrofie;H472;Onherstelbare schade oogzenuw met blijvende visusdaling.
+Strabisme, externe ophthalmoplegie;H49;Oogbewegingsstoornis met dubbelzien en dieptezichtproblemen.
+Strabisme, andere vormen;H50;Scheelzien dat diepteperceptie en visuele coördinatie beïnvloedt.
+Accommodatie- en refractiestoornissen;H52;Foutieve scherpstelling met visusproblemen (myopie, hypermetropie, astigmatisme).
+Amblyopie;H530;“Lui oog” met blijvende vermindering van zicht.
+Fotofobie, hemeralopie, dagblindheid;H531;Lichtovergevoeligheid en verminderde zichtbaarheid bij fel licht.
+Diplopie;H532;Dubbelzien dat oriëntatie en mobiliteit hindert.
+Binoculair zicht, stoornis van-;H533;Problemen met dieptezicht en coördinatie.
+Gezichtsveldstoornis (hemianopsie, scotomen …);H534;Gedeeltelijk verlies van gezichtsveld met veiligheidsrisicos.
+Kleurenzicht, stoornis van-;H535;Beperkte kleurwaarneming, impact op bepaalde taken.
+Nachtblindheid;H536;Zeer slecht zicht bij weinig licht, hindert mobiliteit.
+Blindheid beide ogen (visus <1/20);H540;Ernstig functieverlies, volledige afhankelijkheid in visuele taken.
+Blindheid 1 oog, ernstige visusstoornis ander oog;H541;Beide ogen sterk beperkt, invloed op oriëntatie en ADL.
+Visusdaling ernstig beide ogen (visus <3/10);H542;Sterke vermindering zicht met grote functionele impact.
+Blindheid 1 oog;H544;Verlies dieptezicht en gezichtsvelduitval.
+Visusdaling ernstig 1 oog;H545;Monoculaire beperkingen die coördinatie en veiligheid beïnvloeden.
+Nystagmus;H55;Ritmische oogbewegingen met wazig zicht.
+Otitis media, chronisch;H65;Langdurige middenoorontsteking met gehoorverlies.
+Mastoiditis;H70;Ontsteking mastoïd met gehoor- en evenwichtsproblemen.
+Cholesteatoom middenoor;H71;Groei middenoorweefsel dat gehoor en evenwicht aantast.
+Trommelvliesperforatie;H72;Geleidingsverlies gehoor en gevoeligheid voor infecties.
+Tympanosclerose/ankylose gehoorbeentjes;H74;Stugge gehoorbeentjes met geleidingsstoornis.
+Otosclerose;H80;Botwoekering binnenoor met progressief gehoorverlies.
+Vestibulaire stoornissen (excl. H810);H81;Evenwichtsstoornissen met duizeligheid en valrisico.
+Ziekte van Ménière;H810;Aanvallen van duizeligheid, tinnitus en gehoorverlies.
+Labyrinthdysfunctie;H83;Binnenooraandoening met evenwichts- en gehoorproblemen.
+Geluidtrauma;H833;Gehoorschade door lawaai, vaak blijvend.
+Gehoorverlies bilateraal, geleidingsstoornis;H900;Verminderd gehoor door stoornis gehoorgang/middenoor.
+Gehoorverlies unilateraal, geleidingsstoornis;H901;Geleidingsverlies aan één oor met richtinghoringsproblemen.
+Gehoorverlies geleidingsstoornis, NNO;H902;Algemene stoornis geluidsoverdracht.
+Gehoorverlies bilateraal, perceptiestoornis;H903;Binnenooraantasting met blijvend sensorineuraal gehoorverlies.
+Gehoorverlies unilateraal, perceptiestoornis;H904;Sensorineuraal verlies één oor, moeilijk richting horen.
+Gehoorverlies perceptiestoornis, NNO;H905;Algemene binnenoor-/zenuwschade met gehoorverlies.
+Gehoorverlies bilateraal, gemengde stoornis;H906;Combinatie van geleidings- en perceptieverlies.
+Gehoorverlies unilateraal, gemengde stoornis;H907;Gemengde gehoorstoornis aan één oor.
+Gehoorverlies, gemengde stoornis;H908;Geleidings- en perceptiestoornis gecombineerd.
+Presbyacusis;H911;Ouderdomsgehoorverlies met communicatieproblemen.
+Doofstomheid;H913;Gehoorverlies met ernstige spraak- en taalimpact.
+Tinnitus;H931;Oorsuizen met hinder in concentratie en slaap.
+Hyperacusis;H932;Overgevoeligheid voor geluid, belemmert dagelijkse activiteiten.
+Nervus acusticus aandoening;H933;Zenuwaantasting met gehoorverlies en evenwichtsproblemen.
+Chorea, reumatische;I02;Onwillekeurige bewegingen die coördinatie aantasten.
+Mitralisklepaandoening, reumatisch;I05;Klepafwijking die inspanningscapaciteit vermindert.
+Aortaklepaandoening, reumatisch;I06;Verminderde hartpompfunctie door kleplek of -stenose.
+Tricuspidalisklep, reumatisch;I07;Doorbloedingsproblemen met vermoeidheid en oedeem.
+Meerdere hartkleppen, reumatisch;I08;Multipele klepafwijkingen met ernstige inspanningsbeperking.
+Reumatische hartaandoening (niet-kleppen);I09;Chronische cardiale schade met beperkte inspanningstolerantie.
+Hypertensie, essentiële;I10;Hoge bloeddruk met risico op vermoeidheid en orgaanschade.
+Cardiomyopathie, hypertensieve;I11;Vergroting hartspier met verminderde inspanningscapaciteit.
+Nefropathie, hypertensieve;I12;Nierschade door hypertensie met vermoeidheid en vochtretentie.
+Hypertensie, secundair;I15;Hoge bloeddruk door onderliggende aandoening met beperkingen.
+Angina pectoris;I20;Pijn op de borst bij inspanning door zuurstoftekort van het hart met beperkte inspanningscapaciteit.
+Myocardinfarct;I21;Hartschade door infarct met blijvende vermoeidheid en inspanningsbeperking.
+Aneurysma, cardiaal;I253;Vernauwing/verwijding hartwand met risico op hartritmestoornissen en verminderde pompfunctie.
+Cardiomyopathie, ischemische-;I255;Verzwakte hartspier door doorbloedingsproblemen met lage inspanningstolerantie.
+Longembolie;I26;Verminderde longcirculatie met kortademigheid en vermoeidheid.
+Pulmonale hypertensie, primaire-;I270;Hoge druk longvaten met ernstige inspanningsintolerantie en benauwdheid.
+Cardiopathie tgv kyfoscoliose;I271;Afwijkende borstkasvorm beperkt long- en hartfunctie.
+Cardiopathie tgv longaandoeningen, NNO;I279;Hartbelasting door chronische longaandoening met verminderde inspanning.
+Arterio-veneuze fistels/aneurysmata longvaten;I28;Abnormale bloedstromen die ademhaling en inspanning beïnvloeden.
+Pericarditis (adhesief/constrictief);I31;Ingesnoerde hartzak met verminderde vulling en kortademigheid.
+Mitralisklep, niet-rheumatisch;I34;Lek of vernauwing veroorzaakt kortademigheid en vermoeidheid.
+Aortaklep, niet-rheumatisch;I35;Verminderde bloeduitstroom met inspanningsbeperking.
+Tricuspidalisklep, niet-rheumatisch;I36;Terugstroom veneus bloed met oedeem en vermoeidheid.
+Pulmonalisklep, niet-rheumatisch;I37;Belemmerde doorbloeding vanuit RV met inspanningsklachten.
+Hypertrofische/obstructieve cardiomyopathie;I42;Verdikte hartspier met ritmestoornissen en inspanningsbeperking.
+Hartgeleidingsstoornissen;I44;Trage of verstoorde geleiding met syncope of vermoeidheid.
+Hartstilstand;I46;Herstel na stilstand met risico op cognitieve en fysieke beperkingen.
+Hartritmestoornissen;I47;Onregelmatige hartslag met duizeligheid, vermoeidheid, syncope.
+Hartdecompensatie;I50;Onvoldoende hartpompfunctie met zware inspanningsbeperkingen.
+Cerebrale atherosclerose;I672;Doorbloedingsstoornissen hersenen met cognitieve en mobiliteitsproblemen.
+Leucoencefalopathie (Binswanger);I673;Wittestofschade met traagheid, loopstoornissen en cognitieve stoornissen.
+Encephalopathie, hypertensieve-;I674;Hersenschade door hypertensie met neurologische uitval.
+Subarachnoïdale bloeding, sequelae;I690;Restletsels zoals hoofdpijn, traagheid, cognitieve problemen.
+Intracerebrale bloeding, sequelae;I691;Rest-uitval zoals parese, spraakstoornissen en cognitieve problemen.
+Subduraal hematoom, sequelae;I692;Chronische traagheid, hoofdpijn en cognitieve stoornissen.
+Herseninfarct (sequelae);I693;Verlamming, taalstoornissen, cognitieve beperking.
+CVA, NEG, sequelae;I694;Residuale motorische, cognitieve of communicatieve problemen.
+Atherosclerose perifere vaten;I70;Verminderde doorbloeding met pijn en beperkte loopafstand.
+Aorta/perifere aneurysma’s;I71;Risico op scheuren en verminderde inspanningstolerantie.
+Raynaud, ziekte van-;I730;Beperkte handfunctie door doorbloedingsproblemen.
+Ziekte van Buerger;I731;Vernauwing perifere vaten met pijn en loopbeperkingen.
+Acrocyanose;I738;Blauwverkleuring extremiteiten met koude-intolerantie.
+Claudicatio intermittens;I739;Pijn bij wandelen door arteriële insufficiëntie.
+Thrombose/embolie perifere slagader;I74;Acute ischemie met motorische en functionele beperkingen.
+Erfelijke hemorrhagische telangiëctasie (Osler-Weber-Rendu);I780;Bloedingsneiging, vermoeidheid, ademhalingsklachten.
+Angiopathie, diabetische;I792;Vaatbeschadiging met gevoelsverlies, pijn en mobiliteitsproblemen.
+Flebitis/thromboflebitis;I80;Pijn, zwelling en beperkte mobiliteit been of arm.
+Vena porta trombose;I81;Leverproblemen met vermoeidheid en buikklachten.
+Thrombose/embolie aders, NEG;I82;Zwelling en pijn met functionele beperkingen.
+Varices (spataders);I83;Pijn en vermoeidheid in benen bij staan/lopen.
+Ulcus cruris;I830;Open beenwonden met bewegingsbeperking en pijn.
+Hemorrhoiden;I84;Pijn en bloedverlies met beperkingen bij zitten en ADL.
+Slokdarmvarices;I85;Risico op ernstige bloedingen, vermoeidheid en beperkingen.
+Postflebitissyndroom;I870;Chronische veneuze insufficiëntie met pijn en oedeem.
+Vena cava syndroom;I871;Zeer beperkte inspanning door verminderde afvoer bovenlichaam.
+Veneuze insufficiëntie onderste ledematen;I872;Oedeem, zwaartegevoel en beperkte mobiliteit.
+Lymfadenitis, chronisch;I88;Langdurige klierontsteking met pijn en regionale beperkingen.
+Lymfoedeem/lymfangiëctasie;I890;Zwelling van ledematen met mobiliteitsproblemen.
+Hypotensie, arteriële (orthostatisch);I95;Duizeligheid en syncope bij rechtstaan.
+Postcardiotomiesyndroom;I970;Pijn, vermoeidheid en ademhalingsbeperking na hartchirurgie.
+Lymfoedeem na borstamputatie;I972;Armzwelling en verminderde mobiliteit.
+Rhinitis, nasopharyngitis en pharyngitis, chronische-;J31;Aanhoudende ontsteking van neus/keel met ademhalingsmoeilijkheden en vermoeidheid.
+Sinusitis, chronische-;J32;Langdurige bijholteontsteking met hoofdpijn en verminderde concentratie.
+Laryngitis, chronische-;J37;Heesheid en stemvermoeidheid met beperkingen in communicatie.
+Stemband- of larynxparalyse;J380;Stembandverlamming met slikstoornissen en ademproblemen.
+Stemband- of larynxpoliep;J381;Stemveranderingen en beperkte spraakduur.
+Stembandknobbels;J382;Heesheid en vocale beperkingen door chronische overbelasting.
+Bronchitis, chronische-;J42;Aanhoudend hoesten en kortademigheid met inspanningsbeperking.
+Emfyseem;J43;Longschade met ernstige ademnood en verminderde inspanningstolerantie.
+Chronische obstructieve longziekte (COLD/CARA);J44;Aanhoudende luchtwegobstructie met kortademigheid en beperkingen in ADL.
+Asthma bronchiale;J45;Aanvallen van benauwdheid met inspanningsbeperkingen.
+Bronchiectasieën;J47;Verwijde luchtwegen met chronische infecties en slijmophoping.
+Pneumoconiose tgv steenkoolstof;J60;Longschade door stofinhalatie met chronische kortademigheid.
+Pneumoconiose tgv minerale vezels (asbest);J61;Longfibrose met verminderde inspanningscapaciteit.
+Pneumoconiose tgv siliciumstof;J62;Longschade met progressieve ademhalingsbeperkingen.
+Pneumoconiose tgv andere inorganische stoffen;J63;Stofgerelateerde longschade met dyspneu.
+Longziekte tgv inhalatie organisch stof;J66;Ademhalingsklachten door allergische/irritatieve blootstelling.
+Longziekte tgv chemische stoffen/gassen;J68;Beschadiging luchtwegen met hoest en benauwdheid.
+Longziekte na bestraling;J701;Fibrose en kortademigheid na radiotherapie.
+Longziekte na druggebruik;J704;Ademhalingsschade met vermoeidheid en dyspneu.
+Hyaliene membraanziekte (ARDS);J80;Acute longschade met ernstige ademnood en functieverlies.
+Longoedeem;J81;Vocht in longen met acute en chronische ademhalingsproblemen.
+Longfibrose;J841;Verharding longweefsel met progressieve inspanningsbeperking.
+Pneumothorax;J93;Instorting long met acute pijn en ademnood.
+Pleurale uitstorting;J94;Vochtophoping pleura met kortademigheid.
+Ademhalingsinsufficiëntie, chronische-;J961;Aanhoudende onvoldoende gasuitwisseling met zware beperkingen.
+Longatelectase/-collaps;J981;Samengevallen longkwab met ademhalingsproblemen.
+Diafragmaverlamming;J986;Beperkte ademhaling door spieruitval.
+Tand, doorbraak- en ontwikkelingsstoornissen;K00;Problemen bij tandontwikkeling met kauw- en spraakproblemen.
+Tand, cariës;K02;Aantasting tandstructuur met pijn en eetproblemen.
+Tand, abrasie;K031;Slijtage tandmateriaal met gevoeligheid en kauwbeperking.
+Tand, gingivitis en parodontitis;K05;Ontsteking tandvlees met pijn en functieverlies.
+Dentofaciale afwijkingen, malocclusie;K07;Beetafwijkingen die kauwen en spreken bemoeilijken.
+Retro-/prognatisme;K071;Kaakstandafwijkingen met functionele spraak- en kauwproblemen.
+Openbeet/overbeet;K072;Verstoorde beetpositie met eet- en spraakmoeilijkheden.
+Speekselklieraandoeningen;K11;Droge mond of ontsteking met slik- en spraakproblemen.
+Tongafwijkingen;K14;Functieverlies tong met spraak- en eetproblemen.
+Oesofagitis;K20;Slokdarmontsteking met pijn bij slikken.
+Gastro-oesofageale reflux;K21;Terugvloei maagzuur met brandend maagzuur en slikklachten.
+Achalasie;K220;Verminderde slokdarmfunctie met slikproblemen.
+Slokdarmstenose;K222;Vernauwing met slikbelemmering en gewichtsverlies.
+Slokdarmdivertikel;K225;Uitstulping met retentie van voedsel en slikproblemen.
+Slokdarmaandoeningen, overige;K22;Diverse slik- en passageproblemen.
+Maagulcus;K25;Maagzweer met pijn en inspanningsbeperkingen.
+Duodenumulcus;K26;Zweer in twaalfvingerige darm met pijn en vermoeidheid.
+Hernia inguinalis;K40;Liesbreuk met pijn en beperking bij tillen en lopen.
+Hernia femoralis;K41;Pijnlijke buikwandbreuk met inspanningsbeperkingen.
+Hernia umbilicalis;K42;Uitstulping navelregio met pijn bij inspanning.
+Hernia ventralis;K43;Buikwandbreuk met zwaar tillen en mobiliteit beperking.
+Hernia diafragmatica;K44;Organen verschuiven naar borstkas met ademhalingsproblemen.
+Crohn, ziekte van-;K50;Chronische darmontsteking met diarree, pijn en vermoeidheid.
+Colitis ulcerosa;K51;Aanhoudende ontsteking dikke darm met bloedverlies en uitputting.
+Niet-infectieuze enteritis/colitis;K52;Darmontsteking met buikpijn en functionele beperkingen.
+Vasculaire insufficiëntie intestinaal;K55;Onvoldoende doorbloeding darm met acute pijn en eetproblemen.
+Paralytische ileus/intestinale obstructie;K56;Darmstilstand met ernstige buikklachten en functieverlies.
+Diverticulose/-itis;K57;Ontstoken divertikels met pijn en beperkingen ADL.
+Spastisch colon;K58;Prikkelbaredarmsyndroom met buikpijn, wisselende stoelgang en vermoeidheid.
+Intestinale functionele stoornissen;K59;Chronische obstipatie of diarree met ADL-beperkingen.
+Anus, fistels en fissuren;K60;Pijnlijke kloven/fistels met hinder bij zitten en ontlasting.
+Anus, prolaps;K62;Uitstulping anus met pijn en functionele beperkingen.
+Fistels intestinaal;K632;Abnormale verbindingen met pijn en infectierisico.
+Leverziekte, alcoholische-;K70;Leverschade met vermoeidheid, zwakte en cognitieve problemen.
+Leverstoornissen, toxische;K71;Leverdisfunctie door toxines met vermoeidheid en malaise.
+Leverinsufficiëntie;K72;Verminderde leverfunctie met ernstige moeheid en cognitieve achteruitgang.
+Levercirrhose en fibrose, primaire-;K74;Ernstige leververharding met ascites en verminderde belastbaarheid.
+Portale hypertensie;K766;Hoge druk poortader met moeheid en risico op bloedingen.
+Pancreatitis, chronische-;K86;Aanhoudende ontsteking pancreas met pijn en maldigestie.
+Malabsorptie, intestinaal;K90;Onvoldoende opname voedingsstoffen met gewichtsverlies en vermoeidheid.
+Pancreasinsufficiëntie, exocriene-;K903;Slechte vertering vetten met diarree en verminderde energie.
+Gastro-intestinale stoornissen postoperatief;K91;Darmproblemen na chirurgie met malabsorptie.
+Dumping syndroom;K911;Snelledarmlediging met duizeligheid en vermoeidheid na eten.
+Huidinfecties (L00-L08);L00;Huidontstekingen met pijn en mobiliteitsbeperkingen.
+Bulleuze huidaandoeningen (L10-L14);L10;Blaarvorming met pijn en wondzorgproblemen.
+Dermatitis atopische-;L20;Ernstige jeuk en huidontstekingen met slaapverstoring.
+Dermatitis allergisch contact-;L23;Huidontsteking door allergie met pijn en functionele hinder.
+Dermatitis exfoliatief;L26;Ernstige roodheid en schilfering met vermoeidheid.
+Jeuk (pruritus);L29;Aanhoudende jeuk met slaap- en concentratieproblemen.
+Dyshidrose;L301;Blaarvorming handen/voeten met pijn en functieverlies.
+Psoriasis;L40;Schilferige huidplekken met pijn en gewrichtsklachten.
+Urticaria;L50;Jeukende huiduitslag met functionele hinder.
+Erythema nodosum;L52;Pijnlijke knobbels benen met mobiliteitsbeperking.
+Dermatitis tgv bestraling;L58;Huidbeschadiging met pijn en gevoeligheid.
+Alopecia areata;L63;Plekgewijs haarverlies met psychosociale impact.
+Zweetklierstoornis;L74;Overmatige of verminderde zweetproductie met discomfort.
+Decubitus ulcus;L89;Doorligwonden met mobiliteitsbeperking.
+Huidlitteken, adherent;L905;Pijnlijk litteken dat beweging beperkt.
+Huidlitteken, hypertrofisch/keloïd;L910;Verdikte littekens met spanning en cosmetische hinder.
+Bindweefselziekte, gelokaliseerd;L94;Lokale ontsteking met pijn en functiebeperking.
+Reiter, ziekte van-;M023;Gewrichtsontsteking met pijn, reactieve artritis.
+Rheumatoïde arthritis;M05;Chronische gewrichtsontsteking met stijfheid en functiebeperkingen.
+Arthropathie, psoriatische/enteropatische;M07;Gewrichtspijn geassocieerd met huid- of darmziekten.
+Polyarthritis, juveniele vorm;M08;Kinderlijke gewrichtsontsteking met mobiliteitsproblemen.
+Still, ziekte van-;M082;Auto-immuun artritis met koorts en bewegingsbeperking.
+Jicht;M10;Kristalgewrichtsontsteking met hevige pijn.
+Chondrocalcinose;M11;Kalkafzetting in gewrichten met stijfheid en pijn.
+Polyarthrose;M15;Meerdere gewrichten aangetast door slijtage met functiebeperkingen.
+Coxarthrose;M16;Heupartrose met pijn en beperkte mobiliteit.
+Gonarthrose;M17;Knieartrose met loopbeperkingen.
+Arthrose eerste carpometacarpaal gewricht;M18;Duimbasisartrose met verminderde handfunctie.
+Arthrose NEG;M19;Artrose andere gewrichten met pijn en stijfheid.
+Vingers, verworven misvormingen;M200;Standafwijkingen vingers met beperkte handfunctie.
+Tenen, verworven misvormingen;M201;Hallux valgus/rigidus en hamerteen met loopproblemen.
+As- en standafwijkingen ledematen;M21;Afwijkingen die gang en belasting hinderen.
+Valgusstand ledematen;M210;X-benen met loop- en pijnklachten.
+Varusstand ledematen;M211;O-benen met belastingproblemen.
+Pes planus, verworven;M214;Platvoet met pijn en vermoeide voeten.
+Klompvoet/klauwhand verworven;M215;Ernstige standafwijkingen met functionele handicap.
+Holvoet, verworven;M216;Verhoogde welfing met pijn en instabiliteit.
+Lengteverschil ledematen;M217;Ongelijke beenlengte met loopstoornissen en rugpijn.
+Patella, recidiverende dislocaties;M220;Knieknieschijf die herhaaldelijk uit de kom gaat met instabiliteit.
+Patella, recidiverende subluxaties;M221;Gedeeltelijke knieschijfverplaatsingen met pijn en onzeker gangpatroon.
+Patello-femorale stoornissen;M222;Pijn aan de voorzijde van de knie bij traplopen en hurken.
+Chondromalacia patellae;M224;Verweking kraakbeen patella met pijn bij belasting.
+Knie, meniscus-aandoeningen;M230;Meniscusscheuren met slotklachten en bewegingsbeperking.
+Knie, gewrichtsmuis;M234;Los fragment in knie met blokkeren en instabiliteit.
+Knie, chronische instabiliteit;M235;Knie voelt onbetrouwbaar aan bij lopen of draaien.
+Knie, ligamentscheuren;M236;Gescheurde kruis- of zijbanden met instabiliteit.
+Gewrichtsmuis (andere gewrichten);M240;Los kraakbeen/botfragment dat gewricht blokkeert.
+Gewrichtskraakbeenaandoening;M241;Beschadigd kraakbeen met pijn en beperkte mobiliteit.
+Gewrichtsligamentaandoening;M242;Verzwakte ligamenten met instabiliteit.
+Gewrichtsdislocatie/subluxatie recidiverend;M244;Gewrichten die vaker uit de kom gaan.
+Gewrichtscontractuur;M245;Bewegingsbeperking door verkorte weefsels.
+Gewrichtsankylose (niet-wervelkolom);M246;Articulatieverstijving met sterk functieverlies.
+Haemarthrosis;M250;Bloed in het gewricht met pijn en zwelling.
+Gewrichtsfistel;M251;Abnormale verbinding met vochtlekkage rond gewricht.
+Gewrichtslaxiteit;M252;Overmatige beweeglijkheid, vaak pijnlijk.
+Gewrichtsinstabiliteit (excl. knie);M253;Onbetrouwbare gewrichtsfunctie bij dragen/bewegen.
+Gewrichtsuitstorting;M254;Vochtophoping met zwelling en stijfheid.
+Gewrichtspijn;M255;Chronische of recidiverende pijn bij beweging of rust.
+Gewrichtsstijfheid;M256;Verminderde soepelheid, vaak ochtendstijfheid.
+Polyarteritis nodosa (PAN);M30;Vasculitis met pijn, moeheid en orgaanaantasting.
+Nekrotiserende vaataandoening;M31;Ontsteking bloedvaten met ischemiepijn.
+Goodpasture syndroom;M310;Nier- en longschade met ernstige vermoeidheid.
+Thrombotische thrombocytopenische purpura;M311;Stollingsstoornis met neurologische symptomen.
+Wegener granulomatose;M313;Vasculitis met luchtwegproblemen en algemene zwakte.
+Takayasu ziekte;M314;Grotevatenvasculitis met vermoeidheid en verminderde belasting.
+Lupus erythematosus disseminatus;M32;Systemische auto-immuunziekte met gewrichts- en orgaanklachten.
+Dermato(poly-)myositis;M33;Spierspanning/zwakte met huidafwijkingen.
+Sclerodermie, CREST;M34;Bindweefselverharding met pijn en verminderde mobiliteit.
+Bindweefselziekten, veralgemeend;M35;Auto-immuunziekte met multiorgaansymptomen.
+Sjögren syndroom;M350;Droge ogen/mond met vermoeidheid en pijnklachten.
+Mixed connective tissue disease;M351;Mengbeeld van auto-immuunziekten met gewrichtspijn.
+Behçet ziekte;M352;Vasculitis met mondzweren en gewrichtsklachten.
+Polymyalgia rheumatica;M353;Ernstige schouder- en heupgordelpijn bij ouderen.
+Hyperlaxiteit syndroom;M357;Overbeweeglijke gewrichten met pijn en vermoeidheid.
+Kyfose en lordose;M40;Afwijkende wervelkolomkromming met rugpijn.
+Scoliose, verworven;M41;Zijdelingse kromming met rugpijn en functionele beperkingen.
+Osteochondrose wervelkolom;M42;Kraakbeenafbraak met stijfheid en pijn.
+Scheuermann en Calvé ziekte;M420;Groei-afwijking wervels met rugpijn bij jongeren.
+Spondylolyse;M430;Defect tussen wervellichamen met lage rugpijn.
+Spondylolisthesis, verworven;M431;Wervelverschuiving met radiculaire pijn.
+Wervelkolom, ankylose;M432;Verstijving wervels met beperkte mobiliteit.
+Torticollis;M436;Scheefstand nek met pijn en rotatiebeperking.
+Spondylitis ankylopoetica;M45;Chronische rugontsteking met verstijving.
+Spondylosis met myelopathie;M471;Slijtage met ruggenmergdruk en loopstoornissen.
+Spondylosis met radiculopathie;M472;Zenuwwortelbeknelling met uitstralingspijn.
+Spondylosis zonder zenuwaantasting;M478;Rugslijtage met pijn en stijfheid.
+Spinaalstenose;M480;Vernauwing wervelkanaal met neurogene claudicatio.
+Pott ziekte;M490;Werveltuberculose met rugpijn en neurologische risico’s.
+Wervelcollaps (metastase);M495;Instorting wervel door tumor met pijn en beperking.
+Discusaandoening cervicaal + myelopathie;M501;Halshernia met ruggenmergdruk en coördinatiestoornissen.
+Discusaandoening cervicaal + radiculopathie;M502;Halshernia met armuitstraling.
+Discusaandoening cervicaal zonder zenuwaantasting;M509;Nekpijn en stijfheid zonder uitstralingsklachten.
+Discusaandoening thoracolumbaal met myelopathie;M510;Hernia laag in rug met ruggenmergdruk en loopstoornissen.
+Discusaandoening thoracolumbaal met radiculopathie;M511;Hernia met uitstralingspijn in benen.
+Discusaandoening thoracolumbaal zonder zenuwaantasting;M519;Lumbale rugpijn door discusdegeneratie.
+Wervelkolom, instabiliteit;M532;Onstabiele wervels met pijn en bewegingsbeperkingen.
+Coccygodynie;M533;Pijn aan staartbeen bij zitten en bewegen.
+Radiculopathie zonder discusaandoening;M541;Zenuwwortelprikkeling door andere oorzaak dan hernia.
+Cervicalgie zonder discusaandoening;M542;Chronische nekpijn door spierspanning of slijtage.
+Sciatalgie zonder discusaandoening;M543;Zenuwpijn in been zonder duidelijke hernia.
+Lumbo-ischialgie zonder discusaandoening;M544;Lage rug- en beenpijn door musculaire of degeneratieve oorzaken.
+Lumbago (low back pain);M545;Aspecifieke lage rugpijn met functiebeperking.
+Myositis;M60;Spierontsteking met pijn en krachtverlies.
+Spiercalcificatie of -ossificatie;M61;Kalkvorming in spier met lokale pijn en mobiliteitsverlies.
+Spiercontractuur;M624;Verkorte spier met bewegingsbeperking.
+Spieratrofie;M625;Afname spiermassa met zwakte en minder uithouding.
+Synovitis en tenosynovitis;M65;Ontsteking pees- of gewrichtsbekleding met pijn bij bewegen.
+Pees- of synoviascheur;M66;Scheur van pees of gewrichtsweefsel met functieverlies.
+Achillespeesverkorting, verworven;M670;Beperkte dorsiflexie en gangproblemen.
+Peescontracturen;M671;Verkorte pezen die mobiliteit hinderen.
+Bursitis;M70;Slijmbeursontsteking met pijn bij druk en beweging.
+Dupuytren;M720;Vingerflexiecontracturen met grijpmoeilijkheden.
+Fasciale fibromatose (plantair);M722;Pijnlijke voetzoolverdikking die stappen bemoeilijkt.
+Periarthritis scapulohumeralis (frozen shoulder);M750;Ernstige schouderstijfheid en bewegingsbeperking.
+Rotator cuff syndroom;M751;Schouderpijn door peesletsel met beperkte elevatie.
+Schouder, tendinitis bicepspees;M752;Pijn vooraan schouder bij heffen arm.
+Schouder, calcificatie bicepspees;M753;Kalkafzetting met hevige schouderpijn.
+Enthesopathie onderste ledematen;M76;Peesaanhechtingsproblemen met pijn bij stappen.
+Tendinitis patellapees;M765;Pijn onder knieschijf bij springen en traplopen.
+Tendinitis achillespees;M766;Pijn en stijfheid achillespees met startproblemen.
+Epicondylitis medialis (golfelleboog);M770;Pijn binnenzijde elleboog bij grijpen/tilwerk.
+Epicondylitis lateralis (tenniselleboog);M771;Pijn buitenzijde elleboog bij belasting.
+Periarthritis pols;M772;Pijnlijke polsbewegingen door ontsteking weke delen.
+Calcaneusspoor;M773;Hielpijn bij belasting door botuitwas.
+Metatarsalgie (excl. Morton);M774;Voorvoetpijn bij stappen en staan.
+Rheuma NEG (fibromyalgie);M790;Wijdverspreide spierpijn en vermoeidheid.
+Myalgie;M791;Gelokaliseerde spierpijn door overbelasting of spanningen.
+Osteoporose met fractuur;M80;Broze botten met verhoogd fractuurrisico en pijn.
+Osteoporose zonder fractuur;M81;Verminderde botdichtheid met valrisico.
+Osteomalacie;M83;Botverweking met diffuse botpijn.
+Asafwijking na fractuur;M840;Standafwijking na genezing met functionele beperking.
+Pseudarthrose;M841;Onvolledige botgenezing met pijn en instabiliteit.
+Osteomyelitis;M86;Botinfectie met pijn, zwakte en functionele belemmering.
+Osteonecrose;M87;Botafsterving met pijn en bewegingsverlies.
+Paget, ziekte van-;M88;Botafwijkingen met vervorming en pijn.
+Algodystrofie (Sudeck);M890;Zeer pijnlijke regionale dystrofie met functieverlies.
+Ziekte van Marie-Bamberger;M894;Bot-/periostreacties bij longziektes-geeft pijn en zwakte.
+Osteochondrose heup/bekken, juveniel;M91;Groei-afwijking met heuppijn en manken.
+Ziekte van Legg-Calvé-Perthes;M911;Heupnecrose bij kinderen met loopbeperkingen.
+Coxa plana;M912;Afgeplatte heupkop met pijn en beperkte heupmobiliteit.
+Osteochondrose andere beenderen;M92;Botgroeistoornissen bij jongeren met lokale pijn.
+Osteochondritis dissecans;M932;Loszittend bot/kraakbeenfragment met blokkeren.
+Postlaminectomie syndroom;M961;Aanhoudende pijn na rugoperatie met functionele hinder.
+Glomerulonefritis, chronische-;N03;Chronische nierontsteking die vermoeidheid, oedeem en beperkte inspanningstolerantie geeft.
+Nefrotisch syndroom;N04;Ernstige eiwitverlies via urine met oedeem en verminderde fysieke belastbaarheid.
+Pyelonefritis, chronische-;N11;Langdurige nierinfectie met flankpijn en verminderde conditie.
+Hydronefrose;N13;Nieruitzetting met pijn en risico op nierfunctievermindering.
+Vesico-ureterale reflux, verworven;N137;Terugvloei urine naar nieren met infectierisico en klachten.
+Nefropathie tgv toxische stoffen;N14;Nierbeschadiging door toxines met vermoeidheid en beperkingen.
+Nierinsufficiëntie, chronische-;N18;Langdurig nierfalen met vermoeidheid, uremie en inspanningsbeperkingen.
+Nierstenen;N20;Acute of chronische koliekpijn en mobiliteitsvermindering.
+Osteodystrofie, renaal;N250;Botafwijkingen door nierfalen met pijn en bewegingsbeperking.
+Blaasdysfunctie, neuromusculair;N31;Stoornis in blaascontrole met continentie- en leegproblemen.
+Blaashalsstenose;N32;Moeilijk urineren met risico op retentie en infecties.
+Blaasfistel;N322;Abnormale verbinding met lekkage en hygiëneproblemen.
+Urethrastricturen;N35;Vernauwing urethra met plasproblemen en hinder.
+Incontinentie, stress-;N393;Urineverlies bij drukverhoging zoals hoesten of tillen.
+Incontinentie, overloop-/reflex-/urge-;N394;Ongewild urineverlies door blaasoveractiviteit of retentie.
+Impotentie (organisch);N484;Erectiestoornis door lichamelijke oorzaak met impact op intimiteit.
+Endometriose;N80;Pijn en vermoeidheid door ectopisch baarmoederslijmvlies, functionele beperkingen.
+Fistels vrouwelijke genitale tractus;N82;Afscheiding en ongemak met hygiënische beperkingen.
+Perineumletsels tgv bevalling;O70;Pijn en functionele hinder postpartum.
+Zwangerschapscomplicaties bij moeder, NEG;O71;Functionele beperkingen door complicaties tijdens zwangerschap.
+Zuigeling aangetast door aandoening moeder;P00;Bewakingsnood door risico op ontwikkelingsproblemen.
+Zuigeling aangetast door zwangerschapscomplicatie;P01;Impact op groei, ademhaling of neurologische functies.
+Zuigeling aangetast door placenta/navelstrengafwijkingen;P02;Risico op hypoxie en ontwikkelingsproblemen.
+Zuigeling aangetast door complicaties arbeid/bevalling;P03;Neurologische of respiratoire kwetsbaarheid.
+Zuigeling aangetast door schadelijke stoffen;P04;Ontwikkelings- en gedragsrisico’s.
+Prematuur;P07;Onrijpheid organen met ademhalings-, voedings- en ontwikkelingsproblemen.
+Intracraniële bloeding geboortetrauma;P10;Neurologische schade met motorische beperkingen.
+Centrale ZS geboortetrauma;P11;Motorische, sensorische of cognitieve beperkingen.
+Perifere zenuwstelsel geboortetrauma;P14;Verminderde spierfunctie en asymmetrische bewegingen.
+Intra-uteriene hypoxie, sequelae;P20;Motorische en cognitieve beperkingen door zuurstofgebrek.
+Asfyxie bij geboorte;P21;Risico op blijvende neurologische stoornissen.
+Hyaliene membranen ziekte (RDS);P22;Ademnood met langdurige ademhalingsproblemen.
+Bronchopulmonaire dysplasie;P27;Chronische longziekte bij prematuren met beperkte inspanningstolerantie.
+Longatelectase zuigeling;P280;Klungere ademhaling en verminderde oxygenatie.
+Slaap-apneu syndroom zuigeling;P283;Ademstilstanden met risico op ontwikkelingsvertraging.
+Virale aandoening, congenitaal;P35;Kan gehoor-, zicht- en ontwikkelingsproblemen veroorzaken.
+Congenitale infecties overige;P37;Risico op neurologische en groeistoornissen.
+Intracraniële bloeding niet-traumatisch zuigeling;P52;Kan motorische en cognitieve beperkingen geven.
+Hemolytische aandoening foetus/zuigeling;P55;Ernstige anemie, icterus en vermoeidheid.
+Kernicterus;P57;Hersenschade door bilirubine met blijvende motorische beperkingen.
+Enterocolitis necrotiserend;P77;Zeer ernstig darmlijden met groeiproblemen.
+Hypothermie zuigeling;P80;Risico op metabole en respiratoire ontregeling.
+Hyperthermie zuigeling;P81;Risico op neurologische schade.
+Convulsies;P90;Aanvallen met functionele impact op ontwikkeling.
+Periventriculaire cysten;P911;Motorische beperkingen door witte-stofletsels.
+Cerebrale leucomalacie;P912;Ernstige motorische en cognitieve ontwikkelingsproblemen.
+Cerebrale ischemie neonataal;P910;Kan leiden tot hersenschade en CP-beeld.
+Voedingsproblemen zuigeling;P92;Groei- en ontwikkelingsbeperkingen.
+Spiertonusafwijkingen zuigeling;P94;Hyper- of hypotonie met motorische ontwikkelingsvertraging.
+Encephalocele;Q01;Aangeboren uitstulping van hersenweefsel met motorische en cognitieve beperkingen.
+Microcephalie;Q02;Te kleine schedel met ontwikkelingsachterstand en motorische problemen.
+Hydrocefalie, congenitaal;Q03;Vochtophoping in hersenen met druk, motorische en cognitieve beperkingen.
+Afwijkingen corpus callosum;Q040;Verbindingsstoornis tussen hersenhelften met ontwikkelingsproblemen.
+Agenesie/lissencefalie/microgyrie/pachygyrie;Q043;Hersenstructuurstoornissen met ernstige neurologische beperkingen.
+Cerebrale cysten, congenitaal;Q046;Hersencysten die motorische of cognitieve problemen geven.
+Macrogyrie;Q048;Abnormale hersenplooien met ontwikkelingsachterstand.
+Spina Bifida;Q05;Open rug met motorische beperkingen, blaasdysfunctie en sensibiliteitsverlies.
+Arnold-Chiari syndroom;Q070;Hersenverplaatsing naar wervelkanaal met coördinatie- en loopstoornissen.
+Ooglid/traanapparaat afwijkingen;Q10;Aangeboren afwijkingen met visusproblemen of irritatie.
+Microfthalmie;Q11;Abnormaal kleine oogbol met ernstige visusdaling.
+Cataract congenitaal;Q120;Aangeboren lensvertroebeling met slecht zicht.
+Afakie congenitaal;Q123;Ontbrekende ooglens met ernstige refractieproblemen.
+Coloboma lens;Q122;Lensdefect met visuele beperkingen.
+Aniridie congenitaal;Q131;Ontbrekende iris, lichtgevoeligheid en visusdaling.
+Coloboma iris;Q130;Irisdefect met lichtgevoeligheid en visusstoornissen.
+Cornea-misvormingen;Q13;Troebelheid of vormafwijkingen met zichtproblemen.
+Vitreum/retina/choroidea afwijkingen;Q14;Congenitale aandoeningen met blijvende visuele beperkingen.
+Glaucoom congenitaal;Q15;Verhoogde oogdruk met risico op blindheid.
+Oor, congenitale afwijkingen met gehoorstoornissen;Q16;Aangeboren misvormingen met gehoorverlies.
+Oor, congenitale afwijkingen overige;Q17;Structurele oorproblemen met functioneel gehoorverlies.
+Hoofd-en-nek afwijkingen;Q18;Aangeboren afwijkingen die ademhaling, voeding of motoriek beïnvloeden.
+Hartkamers en verbindingen afwijkingen;Q20;Structurele hartproblemen met vermoeidheid en inspanningsintolerantie.
+Hartseptumafwijkingen;Q21;Gaten in tussenschotten met verminderde inspanningstolerantie.
+Ventrikelseptumdefect;Q210;Linker-rechter shunt met kortademigheid en moeheid.
+Atriumseptumdefect;Q211;Shunt op boezemniveau met verminderde inspanningstolerantie.
+Tetralogie van Fallot;Q213;Complexe hartafwijking met cyanose en beperkte belastbaarheid.
+Eisenmenger syndroom;Q218;Omgekeerde shunt met ernstige inspanningsintolerantie.
+Pulmonalis-/tricuspidalis klepafwijkingen;Q22;Klepdefecten met ademnood en vermoeibaarheid.
+Aorta- en tricuspidalisklep afwijkingen;Q23;Stenose of insufficiëntie met cardiale beperkingen.
+Ductus Botalli blijvend;Q250;Open ductus met hartbelasting en vermoeidheid.
+Coarctatio aortae;Q251;Aortavernauwing met hypertensie en verminderde inspanning.
+Pulmonalisstenose;Q256;Vernauwing longslagader met kortademigheid.
+Grote aders, congenitale misvormingen;Q26;Abnormale bloedvaten met circulatieproblemen.
+Perifeer bloedvaten afwijkingen;Q27;Aangeboren vaatafwijkingen met doorbloedingsproblemen.
+Cerebrale aneurysmata/AVM;Q28;Risico op bloedingen en neurologische uitval.
+Neus misvormingen;Q30;Structurele afwijkingen met ademhalingsproblemen.
+Larynx misvormingen;Q31;Afwijkingen met stem- en ademhalingsproblemen.
+Trachea/bronchi misvormingen;Q32;Luchtwegvernauwing met ademhalingsproblemen.
+Bronchomalacie congenitaal;Q320;Instortende luchtwegen met inspannings- en ademhalingsproblemen.
+Long misvormingen;Q33;Aangeboren longafwijkingen met verminderde functie.
+Gespleten gehemelte;Q35;Voedings- en spraakproblemen.
+Gespleten lip;Q36;Functionele problemen bij voeding en articulatie.
+Gespleten lip en gehemelte;Q37;Ernstige spraak- en voedingsproblemen.
+Tong/mond/pharynx afwijkingen;Q38;Problemen bij slikken, voeding en spraak.
+Slokdarm, congenitale afwijkingen;Q39;Voedingsproblemen en risico op aspiratie.
+Maag en duodenum, congenitale afwijkingen;Q40;Obstructie en voedingsproblemen.
+Dunne darm afwijkingen congenitaal;Q41;Malabsorptie en voedingsbeperkingen.
+Aangeboren afwijkingen dikke darm;Q42;Stoelgangproblemen en obstructies.
+Divertikel van Meckel;Q430;Kan bloedingen of obstructie veroorzaken.
+Hirschsprung;Q431;Afwezige zenuwvoorziening dikke darm met ernstige obstipatie.
+Lever, galblaas/wegen afwijkingen;Q44;Stoornissen in galtransport met voeding- en groeiproblemen.
+Pancreas congenitale afwijkingen;Q45;Spijsverteringsproblemen door enzymtekort.
+Geslachtsorganen vrouwelijke, congenitale afwijkingen;Q52;Aangeboren afwijkingen die menstruatie, fertiliteit of urogenitale functie beïnvloeden.
+Geslachtsorganen mannelijke, congenitale afwijkingen;Q55;Structurele afwijkingen met invloed op mictie, fertiliteit of mobiliteit.
+Nieren, agenesie;Q60;Ontbrekende nier met risico op nierinsufficiëntie en beperkte inspanningstolerantie.
+Polykystische nieren;Q61;Vergrote, cysteuze nieren met progressief nierfunctieverlies.
+Hydronefrose congenitaal;Q620;Obstructie van urineafvoer met nierfunctieproblemen.
+Vesico-ureterale reflux congenitaal;Q627;Terugvloei van urine naar nieren met infecties en nierbeschadiging.
+Afwijkingen nierbekken en ureter congenitaal;Q62;Aangeboren obstructies met risico op urinewegproblemen.
+Blaas en urethra, congenitale afwijkingen;Q64;Mictieproblemen door structurele afwijkingen.
+Epispadias;Q640;Onvolledige sluiting urethra met functionele blaasproblemen.
+Blaasextrofie;Q641;Open blaaswand met ernstige mictie- en mobiliteitsproblemen.
+Heupafwijkingen congenitaal (incl. heupluxatie);Q65;Heupluxatie met mobiliteitsproblemen en looppatroonstoornissen.
+Coxa vara/valga congenitaal;Q658;Standafwijkingen heup met loopbeperkingen.
+Voet, congenitale afwijkingen;Q66;Klompvoet en andere afwijkingen met motorische beperkingen.
+Hoofd/aangezicht/skedel/borst afwijkingen;Q67;Structurele afwijkingen met functionele ademhalings- of ontwikkelingsimpact.
+Houdingsscoliose congenitaal;Q675;Bocht in wervelkolom met houding- en mobiliteitsproblemen.
+Pectus excavatum;Q676;Inzakkende borstkas met ademhalingsbeperkingen.
+Pectus carinatum;Q677;Uitstekende borstkas met respiratoire beperkingen.
+Skelet en spieren congenitale afwijkingen;Q68;Diverse afwijkingen met motorische beperkingen.
+Sternocleidomastoideus afwijking congenitaal;Q680;Torticollis met beperkingen in hoofd- en nekbeweging.
+Handafwijkingen congenitaal;Q681;Motorische beperkingen van grijpen en fijne motoriek.
+Knieafwijkingen congenitaal;Q682;Instabiliteit of standsafwijkingen met loopstoornissen.
+Polydactylie;Q69;Extra vingers/tenen met functionele hinder.
+Syndactylie;Q70;Samengegroeide vingers/tenen met motorische beperking.
+Armverkorting congenitaal;Q71;Verminderde armfunctie en mobiliteit.
+Beenverkorting congenitaal;Q72;Verminderde loopfunctie en asymmetrie.
+Arthrogryposis congenita multiplex;Q743;Meervoudige gewrichtscontracturen met ernstige motorische beperkingen.
+Schedel/aangezichtsbeenderen afwijkingen;Q75;Vormstoornissen met visuele, motorische of cognitieve impact.
+Crouzon syndroom;Q751;Craniofaciale dysostose met gezichts- en ademhalingsproblemen.
+Macrocefalie;Q753;Grote schedel met mogelijke druk- en ontwikkelingsproblemen.
+Hypertelorisme;Q752;Wijd uit elkaar staande ogen met visusproblemen.
+Craniosynostose;Q750;Vroegtijdig sluiten schedelnaden met groei- en drukproblemen.
+Spina bifida occulta;Q760;Milde open rug met soms rugpijn of neurologische beperkingen.
+Klippel-Feil syndroom;Q761;Wervelfusie nek met bewegingsbeperking.
+Spondylolisthesis congenitaal;Q762;Verschuiving wervels met rugpijn en radiculopathie.
+Scoliose door benige misvorming;Q763;Structurele kromming met houding- en longfunctieproblemen.
+Wervelkolom afwijkingen congenitaal;Q764;Diverse misvormingen met motorische en pijnklachten.
+Osteochondrodysplasie pijpbeenderen;Q77;Botgroeistoornissen met beperkte mobiliteit.
+Achondroplasie;Q774;Dwerggroei met beperkte reikwijdte, balans- en loopproblemen.
+Osteochondrodysplasie NEG;Q78;Skeletafwijkingen met motorische beperkingen.
+Osteogenesis imperfecta;Q780;Broze botten met fracturen en mobiliteitsproblemen.
+Albright syndroom;Q781;Fibreuze dysplasie met botvervormingen en pijn.
+Osteopetrose;Q782;Verdikte botten met zenuwcompressie en motorische problemen.
+Camurati-Engelmann syndroom;Q783;Botpijn en spierzwakte met loopproblemen.
+Enchondromatose;Q784;Kraakbeentumoren met vervormingen en fracturen.
+Multipele congenitale exostosis;Q786;Botuitstulpingen met pijn en bewegingbeperking.
+Hernia diafragmatica congenitaal;Q790;Longonderontwikkeling met ademhalingsproblemen.
+Gastroschisis;Q793;Buikwanddefect met voedingsproblemen.
+Ehlers-Danlos syndroom;Q796;Bindweefselzwakte met hypermobiliteit en pijn.
+Ichthyosis congenitaal;Q80;Ernstige huidschilfering met jeuk en infectierisico.
+Epidermolysis bullosa;Q81;Zeer kwetsbare huid met pijn en mobiliteitsbeperkingen.
+Lymfoedeem congenitaal;Q820;Chronische zwelling ledematen met mobiliteitsproblemen.
+Xeroderma pigmentosum;Q821;Ernstige UV-gevoeligheid met zicht- en huidproblemen.
+Naevus congenitaal;Q825;Grote pigmentvlekken met mogelijk restrictieve littekens.
+Cutis laxa;Q828;Slappe huid en bindweefsel met mobiliteits- en gewrichtsproblemen.
+Alopecia congenitaal;Q840;Aangeboren haaruitval met mogelijke huidgevoeligheid.
+Facomatosen;Q85;Aangeboren neurocutane aandoeningen met neurologische en visuele beperkingen.
+Neurofibromatose (Von Recklinghausen);Q850;Multipele tumoren met zenuwcompressies en motorische problemen.
+Tubereuze sclerose (Bourneville);Q851;Hersentumoren en huidafwijkingen met epilepsie en cognitieve beperkingen.
+Von Hippel-Lindau / Peutz-Jeghers / Sturge-Weber;Q858;Vasculaire of tumoraandoeningen met neurologische en visuele impact.
+Aangeboren afwijkingen door exogene oorzaken;Q86;Schade door toxische invloeden met multisysteemproblemen.
+Foetaal alcoholsyndroom;Q860;Cognitieve achterstand, gedragsproblemen en motorische beperkingen.
+Goldenhar / Möbius / Robin syndroom;Q870;Craniofaciale afwijkingen met slik-, ademhalings- en motoriekproblemen.
+Aarskog / Cockayne / Noonan / Prader-Willi syndroom;Q871;Groei-, cognitieve en motorische beperkingen.
+Limbaal-extremiteit syndromen (Rubinstein-Taybi, Weber…);Q872;Ledemaat- en ontwikkelingsafwijkingen met functionele beperkingen.
+Sotos syndroom;Q873;Versnelde groei met cognitieve vertraging en motorische problemen.
+Marfan syndroom;Q874;Bindweefselzwakte met gewrichtslaxiteit en cardiale risico’s.
+Alport syndroom;Q878;Nierinsufficiëntie met gehoor- en oogproblemen.
+Downsyndroom;Q90;Cognitieve beperkingen, hypotonie en hartafwijkingen.
+Trisomie (overig);Q91;Aangeboren ontwikkelingsstoornissen met motorische en cognitieve impact.
+Deleties/monosomie chromosomen;Q93;Verschillende ontwikkelingsstoornissen met gedrags- en motorische beperkingen.
+Cri-du-chat syndroom;Q934;Cognitieve beperkingen, hypotonie en gedragsproblemen.
+Turner syndroom;Q96;Groeistoornis met cardiopulmonale en hormonale beperkingen.
+Vrouwelijke sexchromosoomafwijking;Q97;Ontwikkelingsstoornissen met fertiliteits- en cognitieve problemen.
+Mannelijke sexchromosoomafwijking;Q98;Groeistoornissen, dysmorfieën en motorische problemen.
+Fragiel X syndroom;Q992;Intellectuele beperking en gedragsstoornissen.
+Gespecificeerde chromosoomafwijkingen;Q998;Diverse genetische aandoeningen met multisysteemimpact.
+Hik;R066;Onwillekeurige diafragmacontracties met functionele hinder.
+Fecale incontinentie organisch;R15;Onvermogen ontlasting op te houden met sociale beperkingen.
+Gevoelsstoornissen huid;R20;Verminderd of verhoogd gevoel met pijn- of letselrisico.
+Onwillekeurige bewegingen hoofd;R250;Motorische instabiliteit met functionele hinder.
+Tremor (niet-essentieel);R251;Bevingen die fijne motoriek belemmeren.
+Spierkrampen/spasmen;R252;Pijnlijke contracties beïnvloeden mobiliteit.
+Spierfasciculaties;R253;Onwillekeurige spiertrekkingen met functionele hinder.
+Ataxie (niet-aangeboren);R260;Evenwichts- en coördinatiestoornissen.
+Coördinatiestoornis NEG;R270;Motorische planning en uitvoering verstoord.
+Tetanie;R29;Spierrigiditeit door calciumstoornissen.
+Urinaire incontinentie (niet neurogeen);R32;Onvermogen urine op te houden met sociale beperkingen.
+Urineretentie;R33;Onvolledige lediging met risico op infecties.
+Coma en stupor;R40;Ernstig bewustzijnsverlies met volledige afhankelijkheid.
+Verwardheid/desoriëntatie;R410;Cognitieve stoornissen met veiligheidsproblemen.
+Amnesie anterograde;R411;Onvermogen nieuwe informatie te onthouden.
+Amnesie retrograde;R412;Verlies van eerder opgeslagen herinneringen.
+Leeftijdsgebonden cognitieve achteruitgang;R418;Milde cognitieve daling met geheugenproblemen.
+Duizeligheid en vertigo;R42;Evenwichtsproblemen met valrisico.
+Dysfasie/afasie;R470;Taalproductie of -begrip verstoord.
+Dysarthrie/anarthrie;R471;Spraakmotoriek gestoord.
+Dysfonie;R490;Heesheid en stemploblemen met communicatieve beperkingen.
+Afonie;R491;Volledig stemverlies.
+Hyperhydrose;R61;Overmatig zweten met sociale hinder.
+HIV-seropositiviteit;R75;Chronische infectie met immuunzwakte en vermoeidheid.
+Schedel- of aangezichtsfracturen;S02;Traumatisch letsel met pijn en functionele beperkingen.
+Craniale zenuwletsel;S04;Zenuwuitval met motorische of sensorische problemen.
+Traumatisch oog-/oogkasletsel;S05;Visusverlies of oogmobiliteitsproblemen.
+Hersenschudding;S060;Tijdelijke cognitieve en evenwichtsstoornissen.
+Traumatisch hersenoedeem;S061;Zwelling met neurologische uitval.
+Diffuus hersenletsel;S062;Bewustzijns- en functie-uitval door hersenschade.
+Epidurale/extradurale bloeding, traumatisch;S064;Bloedophoping met druk op de hersenen en neurologische uitval.
+Traumatische subdurale bloeding;S065;Hersencompressie met bewustzijnsstoornissen en motorische beperkingen.
+Traumatische subarachnoïdale bloeding;S066;Pijn, bewustzijnsverlies en neurologische restletsels.
+Intracranieel letsel met aanhoudend coma;S067;Ernstig hersenletsel met langdurige bewusteloosheid en totale afhankelijkheid.
+Fractuur halswervels;S12;Nekinstabiliteit met risico op zenuwschade en mobiliteitsverlies.
+Distorsie cervicale wervelkolom (whiplash);S134;Nekpijn, bewegingsbeperking en hoofdpijn.
+Letsel plexus brachialis;S143;Armzwakte of verlamming door zenuwschade.
+Fractuur thoracale wervels/ribben/sternum;S22;Pijn en ademhalingsmoeilijkheden, mobiliteitsbeperking.
+Ruggemergletsel thoracaal;S24;Motorische en sensorische uitval onder het niveau van het letsel.
+Hartletsel traumatisch;S25;Verminderde hartfunctie met circulatoire problemen.
+Pneumothorax traumatisch;S27;Ademhalingsmoeilijkheden door ingeklapte long.
+Fractuur lumbale wervels;S320;Rugpijn en mogelijke zenuwwortelcompressie.
+Fractuur sacrum;S321;Bekkeninstabiliteit met pijn en mobiliteitsproblemen.
+Fractuur coccyx;S322;Pijn bij zitten en mobiliteitsbeperkingen.
+Fractuur bekken;S323;Ernstige pijn, instabiliteit en loopbeperkingen.
+Ruggemergletsel lumbaal;S340;Motorische en gevoelsuitval benen en blaasproblemen.
+Cauda equina syndroom traumatisch;S343;Schade aan zenuwwortels met incontinentie en motorische uitval.
+Letsel plexus lumbosacralis;S344;Krachtverlies in benen en sensibele stoornissen.
+Fractuur schoudergordel;S42;Pijn en verminderde armfunctie.
+Luxatie schouder;S43;Instabiliteit en bewegingsbeperking.
+Zenuwletsel schouder/bovenarm;S44;Verminderde armkracht en gevoelsuitval.
+Amputatie schouder/bovenarm;S48;Verlies van armfunctie en nood aan prothese.
+Fractuur voorarm;S52;Bewegingsbeperking en krachtverlies pols/hand.
+Luxatie elleboog;S53;Instabiliteit en functionele armproblemen.
+Zenuwletsel voorarm;S54;Verstoorde handfunctie door zenuwuitval.
+Bloedvatenletsel voorarm;S55;Doorbloedingsproblemen en functieverlies.
+Spier-/peesletsel voorarm;S56;Bewegingsbeperkingen en grijpkrachtverlies.
+Verbrijzeling voorarm;S57;Ernstige weefselschade met blijvende functiebeperking.
+Amputatie voorarm;S58;Verlies van handfunctie met prothesebehoefte.
+Fractuur pols en hand;S62;Pijn en functionele beperking fijne motoriek.
+Luxatie pols en vingers;S63;Instabiliteit en hinder bij grijpen.
+Zenuwletsel pols/hand;S64;Verlies van fijne motoriek en sensibiliteit.
+Bloedvatenletsel pols/hand;S65;Doorbloedingsstoornissen met risico op weefselverlies.
+Spier-/peesletsel pols/hand;S66;Beperkte handfunctie en grijpkracht.
+Verplettering pols/hand;S67;Ernstige schade met blijvend functieverlies.
+Amputatie duim;S680;Groot verlies in grijpmogelijkheid en fijne motoriek.
+Amputatie één vinger;S681;Verminderde grijpfunctie.
+Amputatie meerdere vingers;S682;Significante motorische beperkingen.
+Amputatie pols;S684;Totaal verlies handfunctie, afhankelijkheid van prothese.
+Fractuur femur;S72;Ernstige mobiliteitsbeperkingen en langdurige revalidatie.
+Luxatie heup;S73;Pijnlijke instabiliteit met loopbeperkingen.
+Zenuwletsel heup/dij;S74;Motorische en sensorische stoornissen benen.
+Bloedvatenletsel heup/dij;S75;Doorbloedingsproblemen met risico op necrose.
+Spier-/peesletsel heup/dij;S76;Bewegings- en krachtverlies in benen.
+Verplettering heup/dij;S77;Weefselschade met blijvende motorische beperkingen.
+Amputatie heupgewricht;S780;Verlies volledige beenfunctie, prothesen afhankelijk.
+Amputatie femurschacht;S781;Significante mobiliteitsbeperking met prothese.
+Fractuur patella;S820;Beperkte kniestroking en loopfunctie.
+Fractuur tibiaplateau;S821;Gewrichtsinstabiliteit en pijn bij belasting.
+Fractuur tibiaschacht, traumatisch;S822;Pijn en instabiliteit met sterk verminderde loopfunctie.
+Fractuur malleolus medialis;S825;Enkelinstabiliteit met mobiliteitsbeperkingen.
+Fractuur malleolus lateralis;S826;Pijn en instabiliteit bij stappen.
+Luxatie of subluxatie knie;S83;Ernstige instabiliteit met functionele loopbeperkingen.
+Meniscusletsel knie, traumatisch;S832;Pijn, slotklachten en beperkingen bij draaien of hurken.
+Zenuwletsel onderbeen;S84;Uitval of zwakte in voet en been met mobiliteitsproblemen.
+Bloedvatenletsel onderbeen;S85;Risico op ischemie en weefselbeschadiging.
+Spier- of peesletsel onderbeen;S86;Verminderde kracht en gangpatroonstoornissen.
+Verplettering onderbeen;S87;Ernstige weefselschade met blijvende beperkingen.
+Amputatie door kniegewricht;S880;Verlies onderste ledemaat, afhankelijk van prothese.
+Amputatie door tibia;S881;Significante beperkingen bij mobiliteit en balans.
+Fractuur voet (tarsus, metatarsus, phalanges);S92;Pijn en verminderde draagkracht bij lopen.
+Luxatie enkel en voet;S93;Instabiliteit en pijn bij belasting.
+Zenuwletsel enkel of voet;S94;Gevoelsverlies of uitval van voetfunctie.
+Bloedvatenletsel enkel of voet;S95;Doorbloedingsproblemen met risico op necrose.
+Spier- of peesletsel enkel of voet;S96;Verminderde kracht en stabiliteit.
+Verplettering enkel of voet;S97;Grote weefselschade met blijvend functieverlies.
+Amputatie voet thv enkel;S980;Verlies voetfunctie, afhankelijk van prothese.
+Amputatie deel van de voet;S984;Verminderde steunfunctie en balans.
+Amputatie beide armen;T052;Geheel verlies armfunctie, volledige afhankelijkheid van hulpmiddelen.
+Amputatie beide benen;T055;Geheel verlies loopfunctie, afhankelijk van rolstoel of prothese.
+Amputatie bovenste én onderste ledematen;T056;Extreem hoge functionele afhankelijkheid.
+Brandwonden hoofd en hals;T20;Pijn, littekens en functionele schade aan ademhaling of mobiliteit.
+Brandwonden romp;T21;Pijn en bewegingsbeperking door littekenvorming.
+Brandwonden schouder en arm;T22;Mobiliteitsbeperkingen en contracturen.
+Brandwonden pols en hand;T23;Beperkte handfunctie door littekens en pijn.
+Brandwonden heup en been;T24;Bewegingsbeperking en loopproblemen.
+Brandwonden enkel en voet;T25;Pijn en beperkingen bij staan of lopen.
+Brandwonden oog en aanhangsels;T26;Visusproblemen door littekenvorming.
+Brandwonden luchtwegen;T27;Ademhalingsproblemen door thermische schade.
+Brandwonden inwendige organen (niet T27);T28;Functionele beperkingen door diepe weefselschade.
+Brandwonden <10% lichaamsoppervlakte;T310;Milde functionele hinder afhankelijk van locatie.
+Brandwonden 10–19%;T311;Pijn en littekenvorming met beperkte mobiliteit.
+Brandwonden 20–29%;T312;Grote functionele beperkingen door wonden en littekens.
+Brandwonden 30–39%;T313;Ernstige littekens, mobiliteits- en pijnproblemen.
+Brandwonden 40–49%;T314;Zeer ernstige littekenvorming met blijvende beperkingen.
+Brandwonden 50–59%;T315;Grote functionele impact op beweging, ademhaling en huidelasticiteit.
+Brandwonden 60–69%;T316;Extreem ernstige littekens met blijvende functionele schade.
+Brandwonden 70–79%;T317;Multisysteembeperkingen door uitgebreide brandwonden.
+Brandwonden 80–89%;T318;Groot functieverlies door littekens en pijn.
+Brandwonden ≥90%;T319;Bijna volledige huidschade, zware functionele beperking.
+Koudeletsels;T35;Weefselbeschadiging met gevoelsverlies en mobiliteitsproblemen.
+Intoxicatie medicatie/drugs/biologische stoffen;T50;Cognitieve en motorische uitval afhankelijk van toxine.
+Intoxicatie niet-medicinale stoffen;T51;Functionele beperkingen door toxische schade.
+Sequellen koolmonoxide-intoxicatie;T58;Cognitieve stoornissen, hoofdpijn en vermoeidheid.
+Bestralingsziekte;T66;Multisysteemschade met vermoeidheid en immunosuppressie.
+Hitteslag;T67;Bewustzijnsstoornissen en spierzwakte.
+Hypothermie, sequellen;T68;Cognitieve en motorische restletsels door koudeletsel.
+Barotrauma;T70;Pijn, gehoorproblemen of longschade.
+Asfyxie (niet T58 of P21);T71;Zuurstoftekort met neurologische restschade.
+Gevolgen van deprivatie (honger/dorst/uitputting);T73;Ernstige vermoeidheid en orgaandysfuncties.
+Verwaarlozing;T740;Lichamelijke of psychische schade door langdurige tekort aan zorg.
+Mishandeling, fysiek;T741;Lichamelijke letsels met pijn, mobiliteits- of angstproblemen.
+Mishandeling, seksueel;T742;Psychotrauma met angst-, PTSS- of functionele klachten.
+Mishandeling, psychisch;T743;Emotionele schade met angst, depressie of sociale beperkingen.
+Bijna-verdrinking, sequellen;T751;Neurologische restletsels door hypoxie.
+Vibratieletsels;T752;Doorbloeding- en gevoelsstoornissen in handen/armen.
+Elektrocutieletsels;T754;Zenuw- en spierschade met motorische uitval.
+Gevolgen van gewichtloosheid/Zwaartekrachtvariatie;T758;Spierzwakte en evenwichtsstoornissen.
+Luchtembool traumatisch;T790;Circulatiestoornissen met neurologische impact.
+Vetembool traumatisch;T791;Ademhalings- en neurologische stoornissen.
+Shock traumatisch;T794;Verlies weefselperfusie met orgaanfalen.
+Crushsyndroom/anurie;T795;Spierschade met nierfalen en zwakte.
+Spierischemie traumatisch;T796;Weefselsterfte met blijvende motorische schade.
+Complicatie infusie/transfusie/injectie;T80;Reacties met neurologische of orgaanstoornissen.
+Complicaties cardiale/vaskulaire prothesen;T82;Functieverlies door obstructie of infectie.
+Complicaties genito-urinaire prothesen;T83;Pijn of disfunctie van urinewegen.
+Complicaties orthopedische implantaten;T84;Pijn, loslating of beperkte mobiliteit.
+Complicaties inwendige implantaten NEG;T85;Functionele hinder afhankelijk van locatie.
+Rejectie/mislukken orgaantransplantatie;T86;Verminderd orgaanfunctioneren en vermoeidheid.
+Complicatie amputatie/reconstructie;T87;Pijn en functionele beperkingen in stomp.
+Neurinoma amputatiestomp;T873;Pijnlijke zenuwknobbel met mobiliteitsbeperking.
+Complicatie immunisatie;T880;Zeldzame neurologische of systemische reacties.
+Complicatie anesthesie;T882;Bewustzijns-, ademhalings- of neurologische klachten.
+Complicatie medicatie;T886;Bijwerkingen met cognitieve of motorische hinder.
+Hoofd, sequellen open wonden;T900;Littekens en gevoelsstoornissen.
+Hals en romp, sequellen open wonden;T910;Bewegingsbeperking of pijn door littekens.
+Bovenste lidmaat, sequellen open wonden;T920;Pijn, stijfheid en functieverlies.
+Onderste lidmaat, sequellen open wonden;T930;Loopbeperking door littekens of gevoelsstoornissen.
+Borstprothese;Z443;Herstel na mastectomie met functionele en psychologische impact.
+Uitwendige prothese NEG;Z448;Vervanging van lichaamsdeel met aanpassingsbeperkingen.
+Nierdialyse;Z49;Ernstige nierinsufficiëntie met vermoeidheid en afhankelijkheid.
+Acculturatieprobleem;Z603;Moeilijkheden bij aanpassing aan nieuwe cultuur met psychosociale impact.
+Relationele problemen;Z63;Conflicten met sociale of emotionele functionele hinder.
+Antisociaal gedrag;Z728;Gedragsproblemen met sociale beperkingen.
+Simulatie;Z765;Oneigenlijke presentatie van klachten (geen functionele stoornis zelf).
+Verworven afwezigheid deel hoofd/hals;Z900;Functieverlies door verlies van gezicht, oog of larynx.
+Borstamputatie;Z901;Verlies borstweefsel met lichamelijke en psychische impact.
+Longamputatie;Z902;Verminderde longfunctie en inspanningsintolerantie.
+Gastrectomie;Z903;Maagverwijdering met voedingsproblemen.
+Amputatie deel spijsverteringsstelsel;Z904;Verteringsproblemen afhankelijk van locatie.
+Nefrectomie;Z905;Verlies nierfunctie, mogelijk verminderde inspanningstolerantie.
+Resectie urinewegen;Z906;Plasproblemen afhankelijk van locatie.
+Amputatie genitalia;Z907;Urinaire en seksuele functiestoornissen.
+Niet meewerken aan behandeling;Z911;Gebrek aan therapietrouw met gezondheidsimpact.
+Tracheostomie;Z930;Ademhalingsondersteuning met zorgafhankelijkheid.
+Gastrostomie;Z931;Voedingssonde met afhankelijkheid bij eten.
+Ileostomie;Z932;Stoelgang via kunstmatige uitgang met verzorgingsnoden.
+Colostomie;Z933;Stoelgangafleiding met dagelijkse zorglast.
+Cystostomie;Z935;Urineafleiding met hulpmiddelen en infectierisico.
+Nefrostomie/ureterostomie/urethrostomie;Z936;Urineafvoer via externe weg, afhankelijkheid van verzorging.
+Stomie NEG;Z938;Kunstmatige uitgang elders met functionele beperkingen.
+Niertransplantatie;Z940;Herstel van nierfunctie maar met chronische immunosuppressie en infectierisico.
+Harttransplantatie;Z941;Nieuw hart met levenslange medicatie en verminderde inspanningstolerantie.
+Longtransplantatie;Z942;Verbeterde ademhaling maar risico op afstoting en infecties.
+Hart-longtransplantatie;Z943;Herstel gecombineerde hart- en longfunctie met hoge zorgbehoefte.
+Levertransplantatie;Z944;Herstel leverfunctie maar afhankelijk van immunosuppressie.
+Huidtransplantatie;Z945;Herstel van huiddefecten, mogelijk gevoelsverlies.
+Bottransplantatie;Z946;Structuurherstel met kans op beperkte belastbaarheid.
+Corneatransplantatie;Z947;Verbetering zicht maar risico op afstoting.
+Transplantatie NEG;Z948;Andere orgaan- of weefseltransplantaties met functionele beperkingen.
+Vasculaire implantaten/enten;Z95;Verbeterde circulatie met risico op trombose of infectie.
+Pacemaker;Z950;Herstel hartritme maar afhankelijk van apparaat.
+Hartklepprothese;Z952;Vervanging klep met risico op embolieën of anticoagulantia-afhankelijkheid.
+Urogenitale implantaten;Z960;Prothesen ter ondersteuning van urine- of voortplantingsfunctie.
+Lensimplantaat;Z961;Vervangt natuurlijke lens, verbetering zicht.
+Cochleaire prothese;Z962;Herstel gehoorfunctie via elektronisch implantaat.
+Larynxprothese;Z963;Herstel stemfunctie na larynxverlies.
+Insulinepomp (inwendig);Z964;Automatische insulinetoevoer, afhankelijkheid van apparaat.
+Tand- en mandibulaire implantaten;Z965;Herstel kauwfunctie.
+Gewrichtsprothese;Z966;Herstel mobiliteit bij artrose of trauma.
+Implantaat NEG;Z968;Andere inwendige implantaten met functionele impact.
+Kunstoog;Z970;Cosmetisch herstel zonder visuele functie.
+Prothese lidmaat;Z971;Kunstledemaat met mobiliteitsbeperking.
+Tandprothese;Z972;Vervanging gebit, verbetering kauwfunctie.
+Contactlenzen en brillen;Z973;Correctie refractieafwijkingen.
+Gehoorprothese, uitwendig;Z974;Verbetering gehoor via externe versterker.
+Intestinale bypass;Z980;Gewichtsreductie of functionele darmomleiding.
+Arthrodese;Z981;Gewrichtsverstijving ter stabilisatie, vermindert beweging.
+Cerebrospinaal drainagesysteem (Holter);Z982;Afvoer hersenvocht, afhankelijkheid van systeem.
+Respirator-afhankelijkheid;Z99;Afhankelijk van beademing, ernstig functieverlies.
+Aspiratie-afhankelijkheid;Z990;Voedingsondersteuning door slikstoornissen.
+Dialyse-afhankelijkheid;Z992;Regelmatige nierdialyse, ernstige nierinsufficiëntie.
+Rolstoelafhankelijkheid;Z993;Mobiliteitsbeperking met verlies loopfunctie.
