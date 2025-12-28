@@ -1,0 +1,1847 @@
+stoornisnaam;stoorniscode;stoornisvragen
+Tuberculose, long-;A15;
+Tuberculose, miliaire;A19;
+Brucellose;A23;
+Leptospirose;A27;
+Tetanus;A35;
+Waterhouse-Friderichsen, syndroom van-;A391;
+Gangreen (gas-);A480;
+Syfilis, congenitale;A50;
+Syfilis, secundaire en tertiaire;A52;
+Herpes, anogenitaal;A60;
+Slow-virusinfekties van het centraal zenuwstelsel;A81;
+Herpes simplex infecties huid en mucosa (excl.A60);B00;
+Herpes zoster (incl. zona);B02;
+Hepatitis, chronische virale;B18;
+AIDS en ARC (excl.R75);B24;
+Mononucleosis infectiosa;B27;
+Mycosen;B35;
+Malaria;B50;
+Leishmaniase;B55;
+Trypanosomiase;B56;
+Toxoplasmose;B58;
+Tuberculose, sequelae NEG (excl. B900-902);B90;
+Tuberculose centrale zenuwstelsel, sequelae;B900;
+Tuberculose urogenitaal, sequelae;B901;
+Tuberculose bot en gewricht, sequelae;B902;
+Poliomyelitis, sequelae;B91;
+Lepra, sequelae;B92;
+Infectieuze of parasitaire aandoeningen, sequelae;B94;
+Tumor, kwaadaardig, lip, mondholte en farynx;C00;
+Tumor, kwaadaardig, spijsverteringsstelsel;C15;
+Tumor, kwaadaardig, ademhalingsstelsel en intrathoracale organen;C30;
+Tumor, kwaadaardig, bot en kraakbeen;C40;
+Tumor, kwaadaardig, huid;C43;
+Tumor, kwaadaardig, bindweefsel en weke weefsels;C45;
+Tumor, kwaadaardig, borstklier;C50;
+Tumor, kwaadaardig, vrouwelijke geslachtsorganen;C51;
+Tumor, kwaadaardig, mannelijke geslachtsorganen;C60;
+Tumor, kwaadaardig, urinewegen;C64;
+Tumor, kwaadaardig, oog en aanhangsels;C69;
+Tumor, kwaadaardig, meningen;C70;
+Tumor, kwaadaardig, hersenen;C71;
+Tumor, kwaadaardig, ruggemerg, craniale zenuwen;C72;
+Tumor, kwaadaardig, schildklier en andere endokriene klieren;C73;
+Tumor, kwaadaardig, ongekende oorsprong en metastasen;C76;
+Hodgkin, ziekte van-;C81;
+Lymfoma, non-Hodgkin;C82;
+Immunoproliferatieve kwaadaardige aandoeningen;C88;
+Multipel myeloom;C90;
+Leukemie;C91;
+Hemangioom, elke lokalisatie;D180;
+Lymfangioom, elke lokalisatie;D181;
+Melanoom;D22;
+Tumor, goedaardig, van meningen;D32;
+Tumor, goedaardig, van hersenen en andere delen van CZS;D33;
+Tumor, goedaardig, van schildklier;D34;
+Tumor, goedaardig, van andere endocriene klieren;D35;
+Polycythemia vera;D45;
+Anemie, nutritioneel;D50;
+Anemie, hemolytisch tgv enzymstoornis;D55;
+Anemie, hemolytisch tgv thalassemie;D56;
+Anemie, hemolytisch tgv sikkelcel;D57;
+Anemie, hemolytisch tgv erfelijke aandoening;D58;
+Anemie, hemolytische, verworven;D59;
+Anemie, aplastische en andere;D60;
+Hemofilie A;D66;
+Hemofilie B;D67;
+Stollingsstoornissen, NEG;D68;
+Purpura en andere hemorrhagische aandoeningen;D69;
+Agranulocytose;D70;
+Neutrofielen, functionele stoornissen van-;D71;
+Hypersplenisme;D731;
+Polycythemia, secundair;D75;
+Immunodeficiëntie met antilichaamstoornissen;D80;
+Sarcoidose;D86;
+Aandoeningen waarbij het immuunsysteem betrokken is, NEG;D89;
+Jodiumdeficiëntiesyndromen, congenitaal;E00;
+Hypothyreoidie;E03;
+Kropgezwel, niet-toxisch;E04;
+Hyperthyreoidie;E05;
+Thyreoiditis;E06;
+Diabetes, insulinodependent;E10;
+Diabetes, niet insulinodependent;E11;
+Pancreas, endocriene stoornis;E16;
+Hypoparathyreoidie;E20;
+Hyperparathyroidie;E21;
+Hyperfunktie van de hypofyse;E22;
+Hypopituïtarisme;E230;
+Diabetes insipidus;E232;
+Hypothalamusdysfunctie;E233;
+Adiposo-genitaal syndroom;E236;
+Cushing, syndroom van-;E24;
+Adrenogenitaal syndroom;E25;
+Conn, syndroom van-;E26;
+Bijnierschorsinsufficiëntie, primair;E271;
+Stein-Leventhal syndroom;E28;
+Testiculaire dysfunctie;E29;
+Polyglandulaire dysfunctie, syndroom van Schmidt;E31;
+Carcinoid syndroom;E34;
+Encephalopathie van Wernicke;E512;
+Malnutritie en voedingstekorten, sequelae;E64;
+Obesitas;E66;
+Pickwick syndroom;E662;
+Aminozuren, aromatische-, metabole stoornis;E70;
+Fenylketonurie;E700;
+Alkaptonurie;E701;
+Albinisme;E703;
+Aminozuren, vertakte keten-, metabole stoornis;E712;
+Vetzuren, metabole stoornis/adrenoleukodystrofie;E713;
+Aminozuren, andere, metabole stoornis;E72;
+Koolhydraten, metabole en secretiestoornissen;E74;
+Glycogeenstapelingsziekte;E740;
+Sfingolipiden, metabole stoornis;E75;
+Glucosaminoglucaan, metabole stoornis;E76;
+Glucoproteïnen, metabole stoornis;E77;
+Lipoproteïnen en andere lipiden, metabole stoornis;E78;
+Purine en pyrimidine, metabole stoornis;E79;
+Bilirubine en porfyrine, metabole stoornis;E80;
+Mineralen, metabole stoornis;E83;
+Wilson, ziekte van- (koper);E830;
+Hemochromatose (ijzer);E831;
+Acrodermatitis enterohepatica (zink);E832;
+Mucoviscidose;E84;
+Amyloïdose;E85;
+Alfa-1-antitrypsinedeficiëntie;E880;
+Lipodystrofie;E881;
+Verstandelijke handicap, lichte;F70;
+Verstandelijke handicap, matige;F71;
+Verstandelijke handicap, ernstige;F72;
+Verstandelijke handicap, diepe;F73;
+Zwakbegaafdheid;F79;
+Specifieke leesstoornis (dyslexie);F810;
+Specifieke stoornis van rekenvaardigheden;F812;
+Dysgrafie/dysorthografie;F818;
+Leerstoornis NAO;F819;
+Developmental Coordination Disorder (DCD);F82;
+Expressieve taalstoornis;F801;
+Gemengd receptieve-expressieve taalstoornis;F808;
+Fonologische stoornis;F800;
+Stotteren;F985;
+Communicatiestoornis NAO;F809;
+Autismespectrumstoornis (ASS);F840;
+Syndroom van Rett;F842;
+Desintegratiestoornis op kinderleeftijd;F843;
+Syndroom van Asperger;F845;
+Pervasieve ontwikkelingsstoornis NAO;F848;
+Autisme, atypisch;F849;
+Stoornis van activiteit en aandacht;F900;
+Hyperkinetische gedragsstoornis;F901;
+Gespecificeerde hyperkinetische stoornis;F908;
+Niet gespecificeerde hyperkinetische stoornis;F909;
+Gedragsstoornis, oppositioneel-opstandig;F913;
+Overige gespecifieerde gedragsstoornissen;F918;
+Gedragsstoornissen, niet gespecificeerd;F919;
+Depressieve gedragsstoornis (kinderen);F920;
+Gemengde stoornis van gedrag en emotie;F929;
+Separatie-angststoornis;F930;
+Sociale-angststoornis op kinderleeftijd;F932;
+Reactieve hechtingsstoornis op kinderleeftijd;F941;
+Ontremde hechtingsstoornis op kinderleeftijd;F942;
+Stereotiepe-bewegingsstoornis;F984;
+Tics, chronische, motorische of vocale;F951;
+Ziekte van Gilles de la Tourette;F952;
+Enuresis (niet somatisch);F980;
+Encopresis (niet somatisch);F981;
+Dementie van het Alzheimertype;F00;
+Vasculaire dementie;F01;
+Dementie (overig);F02;
+Amnestische stoornis;F04;
+Organische hallucinose / waanstoornis;F06;
+Organische persoonlijkheidsstoornis;F070;
+Postcommotioneel syndroom;F072;
+Alcoholmisbruik;F101;
+Alcoholafhankelijkheid;F102;
+Syndroom van Korsakoff;F106;
+Alcoholische dementie;F107;
+Psychische stoornissen door opioïden;F11;
+Psychische stoornissen door cannabis;F12;
+Stoornissen door sedativa/hypnotica;F13;
+Stoornissen door cocaïne;F14;
+Stoornissen door stimulantia incl. cafeïne;F15;
+Stoornissen door hallucinogenen;F16;
+Stoornissen door tabak;F17;
+Stoornissen door vluchtige oplosmiddelen;F18;
+Stoornissen door meervoudig drugsgebruik;F19;
+Schizofrenie;F20;
+Schizofrenie, paranoïde type;F200;
+Schizofrenie, gedesorganiseerd type;F201;
+Schizofrenie, katatoon type;F202;
+Schizofrenie, ongedifferentieerd type;F203;
+Schizofrenie, resttype;F205;
+Depressieve episode, recidiverend;F33;
+Dysthyme stoornis;F341;
+Depressieve stoornis NAO;F329;
+Bipolaire stoornis;F31;
+Cyclothyme stoornis;F340;
+Paniekstoornis met agorafobie;F400;
+Paniekstoornis zonder agorafobie;F410;
+Sociale fobie;F401;
+Specifieke fobie;F402;
+Obsessieve-compulsieve stoornis;F428;
+Gegeneraliseerde angststoornis;F411;
+Angststoornis door somatische oorzaak;F064;
+Angststoornis NAO;F419;
+Posttraumatische stressstoornis (PTSS);F431;
+Aanpassingsstoornissen;F432;
+Somatisatiestoornis;F450;
+Ongedifferentieerde somatoforme stoornis;F451;
+Conversiestoornis;F44;
+Pijnstoornis;F454;
+Hypochondrie;F452;
+Stoornis in de lichaamsbeleving;F458;
+Somatoforme stoornis NAO;F459;
+Neurasthenie / chronisch vermoeidheidssyndroom;F480;
+Dissociatieve amnesie;F440;
+Dissociatieve fugue;F441;
+Dissociatieve identiteitsstoornis;F4481;
+Depersonalisatie stoornis;F481;
+Dissociatieve stoornis NAO;F449;
+Seksuele dysfuncties (niet-organisch);F52;
+Parafilieën;F65;
+Anorexia nervosa;F500;
+Bulimia nervosa;F502;
+Slaapstoornis (niet-organisch);F51;
+Periodieke explosieve stoornis;F638;
+Kleptomanie;F632;
+Pyromanie;F631;
+Gokken, pathologisch;F630;
+Trichotillomanie;F633;
+Stoornis van impulsbeheersing NAO;F639;
+Aanpassingsstoornis;F43;
+Paranoïde persoonlijkheidsstoornis;F600;
+Schizoïde persoonlijkheidsstoornis;F6010;
+Schizotypische persoonlijkheidsstoornis;F21;
+Antisociale persoonlijkheidsstoornis;F602;
+Borderline persoonlijkheidsstoornis;F6031;
+Theatrale persoonlijkheidsstoornis;F604;
+Narcistische persoonlijkheidsstoornis;F608;
+Ontwijkende persoonlijkheidsstoornis;F606;
+Afhankelijke persoonlijkheidsstoornis;F607;
+Obsessief-compulsieve persoonlijkheidsstoornis;F605;
+Persoonlijkheidsstoornis NAO;F609;
+Late gevolgen ontstekingen CZS;G09;
+Chorea van Huntington;G10;
+Hereditaire ataxie;G11;
+Spinale spieratrofie;G12;
+Werdnig-Hoffmann;G120;
+Kugelberg-Welander;G121;
+Amyotrofische lateraalsclerose (ALS);G122;
+Ziekte van Parkinson;G20;
+Parkinsonisme, secundair;G21;
+Basale ganglia aandoeningen NEG;G23;
+Dystonie, dyskinesie;G24;
+Essentiële tremor;G250;
+Myoclonieën;G253;
+Chorea (overig);G255;
+Restless legs syndroom;G258;
+Ziekte van Alzheimer (vroeg begin);G30;
+Ziekte van Pick;G310;
+Alcoholische encephalopathie;G312;
+Neurodegeneratieve aandoeningen, NEG;G319;
+Multiple sclerose;G35;
+Demyeliniserende aandoeningen, andere;G37;"Diagnosestelling
+
+Datum diagnosestelling *
+
+ 
+
+open datum diagnosestelling datepicker
+
+Voeg de disciplines en namen toe van de personen die de diagnose gesteld hebben.
+
+ 
+
+Duid minimaal de volgende discipline(s) aan:
+
+ 
+
+Een arts
+
+ 
+
+Discipline toevoegen
+
+Discipline        Naam        Acties
+
+Geen disciplines gevonden
+
+Aantal items per pagina
+
+10
+
+1 - 0 van 0
+
+Als de diagnose niet door de correcte discipline is gesteld, motiveer waarom
+
+ 
+
+ 
+
+Diagnostische gegevens en/of andere onderzoeksgegevens
+
+Beschrijf de aandoening en de etiologie ervan *
+
+ 
+
+ 
+
+Vermeld de relevante en recente motorische onderzoeken (neurologisch onderzoek, EMG, beeldvorming, biopsie�) die uitgevoerd werden en de resultaten in het kader van de diagnosestelling.
+
+ 
+
+ 
+
+Onderzoek toevoegen
+
+Datum of periode van het onderzoek        Naam        Discipline        Type onderzoek        Resultaat onderzoek        Acties
+
+Geen onderzoeken gevonden
+
+Aantal items per pagina
+
+10
+
+1 - 0 van 0
+
+Vermeld de functies waarbij zich problemen stellen en objectiveer deze functiestoornissen met onderzoeksgegevens. Baseer u hiervoor op het meest recente motorisch en/of functioneel bilan en/of andere (para)medische verslagen.
+
+ 
+
+ 
+
+Functie toevoegen
+
+Functie        Datum        Discipline(s)        Testresultaten        Acties
+
+Geen onderzoeken gevonden
+
+Aantal items per pagina
+
+10
+
+1 - 0 van 0
+
+Vink de activiteiten aan waarbij zich problemen stellen en objectiveer deze met onderzoeksgegevens. Baseer u hiervoor zoveel mogelijk op het meest recente motorisch en/of functioneel bilan en/of andere (para)medische verslagen *
+
+Zitten ICF d4153
+
+Handhaven van de staande houding ICF d4154
+
+Stappen van korte afstanden binnen en rond de woning ICF d4500
+
+Stappen van korte afstanden buitenshuis (>300m, <1000m) ICF d4500
+
+Uitvoeren van transfers in en uit stoel of rolstoel ICF d4103, d4200
+
+Traplopen ICF d451
+
+Optillen en meenemen van voorwerpen ICF d430
+
+Gebruiken van arm en hand (trekken, duwen, reiken, ...) ICF d445
+
+Nauwkeurig gebruiken van hand: manipuleren (potlood, mes en vork, touchscreen, tandenborstel, kam, �) ICF d4402
+
+Problemen met andere activiteiten
+
+Beschrijf de testresultaten voor de aangevinkte activiteiten
+
+ 
+
+ 
+
+Onderzoek toevoegen
+
+Datum        Discipline(s)        Testresultaten        Acties
+
+Geen onderzoeken gevonden
+
+Aantal items per pagina
+
+10
+
+1 - 0 van 0
+
+Vermeld - indien van toepassing - de resultaten van onderzoeken naar niet-motorische problemen (cognitie, gedrag, spraakproblemen...)
+
+ 
+
+ 
+
+Onderzoek toevoegen
+
+Datum        Discipline(s)        Type onderzoek        Resultaat onderzoek        Acties
+
+Geen onderzoeken gevonden
+
+Aantal items per pagina
+
+10
+
+1 - 0 van 0
+
+Beperking en participatieproblemen
+
+Wat zijn de beperkingen en participatieproblemen ten gevolge van deze stoornis? *
+
+ 
+
+ 
+
+Behandelingen
+
+Beschrijf welke behandelingen er al zijn geweest of die nog lopende zijn
+
+ 
+
+ 
+
+Behandeling toevoegen
+
+Behandeling        Datum/Periode (& frequentie)        Omschrijving        Acties
+
+Geen onderzoeken gevonden
+
+Aantal items per pagina
+
+10
+
+1 - 0 van 0
+
+Beschrijf welke behandelingen niet mogelijk zijn en waarom
+
+ 
+
+ 
+
+Beschrijf welke behandelingen er al dan niet worden verwacht
+
+ 
+
+ 
+
+Prognose
+
+Beschrijf de prognose van de aandoening *
+
+ 
+
+ 
+
+Extra informatie
+
+Gaat het bij deze stoornis over een niet-aangeboren hersenletsel? *
+
+Extra informatie"
+Idiopathische partiële epilepsie;G400;
+Symptomatische partiële epilepsie, eenvoudige aanvallen;G401;
+Symptomatische partiële epilepsie, complexe aanvallen;G402;
+Gegeneraliseerde idiopathische epilepsie;G403;
+Gegeneraliseerde epilepsie (overige vormen);G404;
+Epilepsie door externe factoren;G405;
+Migraine;G43;
+Hoofdpijn anders dan migraine;G44;
+TIA en verwante syndromen;G45;
+Slaapapneu syndroom;G473;
+Narkolepsie en kataplexie;G474;
+Aandoeningen nervus trigeminus;G50;
+Aandoeningen nervus facialis;G51;
+Aandoeningen zenuwen/plexus;G52;
+Plexus brachialis aandoeningen;G540;
+Plexus lumbosacralis aandoeningen;G541;
+Fantoompijn;G547;
+Zenuwwortel/plexusletsel door tumor;G550;
+Zenuwwortel/plexusletsel door discusafwijkingen;G551;
+Zenuwwortel/plexusletsel door spondylose;G552;
+Drophand;G56;
+Carpaal tunnel syndroom;G560;
+Nervus ulnaris letsel;G562;
+Nervus radialis letsel;G563;
+Nervus ischiadicus letsel;G570;
+Nervus femoralis letsel;G572;
+Nervus peroneus letsel;G573;
+Tarsaal tunnel syndroom;G575;
+Metatarsalgie van Morton;G576;
+Erfelijke of idiopathische neuropathie;G60;
+Hereditaire motorisch-sensorische neuropathie;G600;
+Ziekte van Refsum;G601;
+Guillain-Barré syndroom;G610;
+Inflammatoire polyneuropathie (overig);G61;
+Toxische polyneuropathie;G62;
+Alcoholische polyneuropathie;G621;
+Diabetische polyneuropathie;G622;
+Myasthenia gravis;G700;
+Spierdystrofie;G710;
+Myotonie;G711;
+Congenitale myopathieën;G712;
+Secundaire myopathie;G72;
+Spastische cerebrale paralyse;G800;
+Cerebrale paralyse, diplegie;G801;
+Cerebrale paralyse, hemiplegie;G802;
+Cerebrale paralyse, dyskinesie;G803;
+Cerebrale paralyse, atactisch;G804;
+Hemiplegie, hypotone;G810;
+Hemiplegie, spastische;G811;
+Hemiplegie, niet gespecificeerd;G812;
+Hemiparese;G819;
+Paraplegie, hypotone;G820;"Diagnosestelling
+
+Datum diagnosestelling *
+
+ 
+
+open datum diagnosestelling datepicker
+
+Voeg de disciplines en namen toe van de personen die de diagnose gesteld hebben.
+
+ 
+
+Duid minimaal de volgende discipline(s) aan:
+
+ 
+
+Een arts
+
+ 
+
+Discipline toevoegen
+
+Discipline        Naam        Acties
+
+Geen disciplines gevonden
+
+Aantal items per pagina
+
+10
+
+1 - 0 van 0
+
+Als de diagnose niet door de correcte discipline is gesteld, motiveer waarom
+
+ 
+
+ 
+
+Diagnostische gegevens en/of andere onderzoeksgegevens
+
+Beschrijf de aandoening en de etiologie ervan *
+
+ 
+
+ 
+
+Vermeld de relevante en recente motorische onderzoeken (neurologisch onderzoek, EMG, beeldvorming, biopsie�) die uitgevoerd werden en de resultaten in het kader van de diagnosestelling.
+
+ 
+
+ 
+
+Onderzoek toevoegen
+
+Datum of periode van het onderzoek        Naam        Discipline        Type onderzoek        Resultaat onderzoek        Acties
+
+Geen onderzoeken gevonden
+
+Aantal items per pagina
+
+10
+
+1 - 0 van 0
+
+Vermeld de functies waarbij zich problemen stellen en objectiveer deze functiestoornissen met onderzoeksgegevens. Baseer u hiervoor op het meest recente motorisch en/of functioneel bilan en/of andere (para)medische verslagen.
+
+ 
+
+ 
+
+Functie toevoegen
+
+Functie        Datum        Discipline(s)        Testresultaten        Acties
+
+Geen onderzoeken gevonden
+
+Aantal items per pagina
+
+10
+
+1 - 0 van 0
+
+Vink de activiteiten aan waarbij zich problemen stellen en objectiveer deze met onderzoeksgegevens. Baseer u hiervoor zoveel mogelijk op het meest recente motorisch en/of functioneel bilan en/of andere (para)medische verslagen *
+
+Zitten ICF d4153
+
+Handhaven van de staande houding ICF d4154
+
+Stappen van korte afstanden binnen en rond de woning ICF d4500
+
+Stappen van korte afstanden buitenshuis (>300m, <1000m) ICF d4500
+
+Uitvoeren van transfers in en uit stoel of rolstoel ICF d4103, d4200
+
+Traplopen ICF d451
+
+Optillen en meenemen van voorwerpen ICF d430
+
+Gebruiken van arm en hand (trekken, duwen, reiken, ...) ICF d445
+
+Nauwkeurig gebruiken van hand: manipuleren (potlood, mes en vork, touchscreen, tandenborstel, kam, �) ICF d4402
+
+Problemen met andere activiteiten
+
+Beschrijf de testresultaten voor de aangevinkte activiteiten
+
+ 
+
+ 
+
+Onderzoek toevoegen
+
+Datum        Discipline(s)        Testresultaten        Acties
+
+Geen onderzoeken gevonden
+
+Aantal items per pagina
+
+10
+
+1 - 0 van 0
+
+Vermeld - indien van toepassing - de resultaten van onderzoeken naar niet-motorische problemen (cognitie, gedrag, spraakproblemen...)
+
+ 
+
+ 
+
+Onderzoek toevoegen
+
+Datum        Discipline(s)        Type onderzoek        Resultaat onderzoek        Acties
+
+Geen onderzoeken gevonden
+
+Aantal items per pagina
+
+10
+
+1 - 0 van 0
+
+Beperking en participatieproblemen
+
+Wat zijn de beperkingen en participatieproblemen ten gevolge van deze stoornis? *
+
+ 
+
+ 
+
+Behandelingen
+
+Beschrijf welke behandelingen er al zijn geweest of die nog lopende zijn
+
+ 
+
+ 
+
+Behandeling toevoegen
+
+Behandeling        Datum/Periode (& frequentie)        Omschrijving        Acties
+
+Geen onderzoeken gevonden
+
+Aantal items per pagina
+
+10
+
+1 - 0 van 0
+
+Beschrijf welke behandelingen niet mogelijk zijn en waarom
+
+ 
+
+ 
+
+Beschrijf welke behandelingen er al dan niet worden verwacht
+
+ 
+
+ 
+
+Prognose
+
+Beschrijf de prognose van de aandoening *
+
+ 
+
+ 
+
+Extra informatie
+
+Gaat het bij deze stoornis over een niet-aangeboren hersenletsel? *
+
+Extra informatie"
+Paraplegie, spastische;G821;
+Paraplegie, niet gespecificeerd;G822;
+Tetraplegie, hypotone;G823;
+Tetraplegie, spastische;G824;
+Tetraplegie, niet gespecificeerd;G825;
+Diplegie bovenste ledematen;G830;
+Monoplegie onderste lidmaat;G831;
+Monoplegie bovenste lidmaat;G832;
+Cauda equina syndroom;G834;
+Carotissinus aandoening;G900;
+Bernard-Horner syndroom;G902;
+Shy-Drager syndroom;G903;
+Hydrocefalie, verworven;G91;
+Encephalopathie, toxisch;G92;
+Porencephalie, verworven;G930;
+Hersenanoxie, sequelae;G931;
+Hersen-/hersenstamcompressie;G935;
+Hersenoedeem;G936;
+Reye, syndroom van-;G937;
+Syringomyelie of -bulbie;G950;
+Myelopathie, vasculair;G951;
+Myelopathie na bestraling;G958;
+Ooglidptose;H024;
+Conjunctivalittekens;H112;
+Keratitis;H16;
+Cornealittekens en opaciteiten;H17;
+Hereditaire corneadystrofie;H185;
+Keratoconus;H186;
+Iridocyclitis;H20;
+Irisafwijkingen;H21;
+Cataract, seniel;H25;
+Cataract, ander;H26;
+Afakie, verworven;H270;
+Lensluxatie;H271;
+Cataract, diabetisch;H28;
+Chorioretinitis;H30;
+Choroidea-aandoeningen;H31;
+Retinaloslating/retinascheur;H33;
+Retina, vaatafsluiting;H34;
+Diabetische retinopathie (vasculair);H350;
+Retinopathie van prematuur;H351;
+Retinadegeneratie macula;H353;
+Retinadegeneratie perifeer;H354;
+Hereditaire retinadystrofie;H355;
+Retinopathie diabetisch;H360;
+Glaucoom;H40;
+Vitreumaandoeningen;H43;
+Myopie, degeneratief;H442;
+Intraoculair vreemd voorwerp;H446;
+Neuritis optica;H46;
+Nervus opticus en optische banen, aandoeningen van- (excl. H46/H472);H47;
+Papiloedeem;H471;
+Nervus opticus atrofie;H472;
+Strabisme, externe ophthalmoplegie;H49;
+Strabisme, andere vormen;H50;
+Accommodatie- en refractiestoornissen;H52;
+Amblyopie;H530;
+Fotofobie, hemeralopie, dagblindheid;H531;
+Diplopie;H532;
+Binoculair zicht, stoornis van-;H533;
+Gezichtsveldstoornis (hemianopsie, scotomen …);H534;
+Kleurenzicht, stoornis van-;H535;
+Nachtblindheid;H536;
+Blindheid beide ogen (visus <1/20);H540;
+Blindheid 1 oog, ernstige visusstoornis ander oog;H541;
+Visusdaling ernstig beide ogen (visus <3/10);H542;
+Blindheid 1 oog;H544;
+Visusdaling ernstig 1 oog;H545;
+Nystagmus;H55;
+Otitis media, chronisch;H65;
+Mastoiditis;H70;
+Cholesteatoom middenoor;H71;
+Trommelvliesperforatie;H72;
+Tympanosclerose/ankylose gehoorbeentjes;H74;
+Otosclerose;H80;
+Vestibulaire stoornissen (excl. H810);H81;
+Ziekte van Ménière;H810;
+Labyrinthdysfunctie;H83;
+Geluidtrauma;H833;
+Gehoorverlies bilateraal, geleidingsstoornis;H900;
+Gehoorverlies unilateraal, geleidingsstoornis;H901;
+Gehoorverlies geleidingsstoornis, NNO;H902;
+Gehoorverlies bilateraal, perceptiestoornis;H903;
+Gehoorverlies unilateraal, perceptiestoornis;H904;
+Gehoorverlies perceptiestoornis, NNO;H905;
+Gehoorverlies bilateraal, gemengde stoornis;H906;
+Gehoorverlies unilateraal, gemengde stoornis;H907;
+Gehoorverlies, gemengde stoornis;H908;
+Presbyacusis;H911;
+Doofstomheid;H913;
+Tinnitus;H931;
+Hyperacusis;H932;
+Nervus acusticus aandoening;H933;
+Chorea, reumatische;I02;
+Mitralisklepaandoening, reumatisch;I05;
+Aortaklepaandoening, reumatisch;I06;
+Tricuspidalisklep, reumatisch;I07;
+Meerdere hartkleppen, reumatisch;I08;
+Reumatische hartaandoening (niet-kleppen);I09;
+Hypertensie, essentiële;I10;
+Cardiomyopathie, hypertensieve;I11;
+Nefropathie, hypertensieve;I12;
+Hypertensie, secundair;I15;
+Angina pectoris;I20;
+Myocardinfarct;I21;
+Aneurysma, cardiaal;I253;
+Cardiomyopathie, ischemische-;I255;
+Longembolie;I26;
+Pulmonale hypertensie, primaire-;I270;
+Cardiopathie tgv kyfoscoliose;I271;
+Cardiopathie tgv longaandoeningen, NNO;I279;
+Arterio-veneuze fistels/aneurysmata longvaten;I28;
+Pericarditis (adhesief/constrictief);I31;
+Mitralisklep, niet-rheumatisch;I34;
+Aortaklep, niet-rheumatisch;I35;
+Tricuspidalisklep, niet-rheumatisch;I36;
+Pulmonalisklep, niet-rheumatisch;I37;
+Hypertrofische/obstructieve cardiomyopathie;I42;
+Hartgeleidingsstoornissen;I44;
+Hartstilstand;I46;
+Hartritmestoornissen;I47;
+Hartdecompensatie;I50;
+Cerebrale atherosclerose;I672;
+Leucoencefalopathie (Binswanger);I673;
+Encephalopathie, hypertensieve-;I674;
+Subarachnoïdale bloeding, sequelae;I690;
+Intracerebrale bloeding, sequelae;I691;
+Subduraal hematoom, sequelae;I692;
+Herseninfarct (sequelae);I693;
+CVA, NEG, sequelae;I694;
+Atherosclerose perifere vaten;I70;
+Aorta/perifere aneurysma’s;I71;
+Raynaud, ziekte van-;I730;
+Ziekte van Buerger;I731;
+Acrocyanose;I738;
+Claudicatio intermittens;I739;
+Thrombose/embolie perifere slagader;I74;
+Erfelijke hemorrhagische telangiëctasie (Osler-Weber-Rendu);I780;
+Angiopathie, diabetische;I792;
+Flebitis/thromboflebitis;I80;
+Vena porta trombose;I81;
+Thrombose/embolie aders, NEG;I82;
+Varices (spataders);I83;
+Ulcus cruris;I830;
+Hemorrhoiden;I84;
+Slokdarmvarices;I85;
+Postflebitissyndroom;I870;
+Vena cava syndroom;I871;
+Veneuze insufficiëntie onderste ledematen;I872;
+Lymfadenitis, chronisch;I88;
+Lymfoedeem/lymfangiëctasie;I890;
+Hypotensie, arteriële (orthostatisch);I95;
+Postcardiotomiesyndroom;I970;
+Lymfoedeem na borstamputatie;I972;
+Rhinitis, nasopharyngitis en pharyngitis, chronische-;J31;
+Sinusitis, chronische-;J32;
+Laryngitis, chronische-;J37;
+Stemband- of larynxparalyse;J380;
+Stemband- of larynxpoliep;J381;
+Stembandknobbels;J382;
+Bronchitis, chronische-;J42;
+Emfyseem;J43;
+Chronische obstructieve longziekte (COLD/CARA);J44;
+Asthma bronchiale;J45;
+Bronchiectasieën;J47;
+Pneumoconiose tgv steenkoolstof;J60;
+Pneumoconiose tgv minerale vezels (asbest);J61;
+Pneumoconiose tgv siliciumstof;J62;
+Pneumoconiose tgv andere inorganische stoffen;J63;
+Longziekte tgv inhalatie organisch stof;J66;
+Longziekte tgv chemische stoffen/gassen;J68;
+Longziekte na bestraling;J701;
+Longziekte na druggebruik;J704;
+Hyaliene membraanziekte (ARDS);J80;
+Longoedeem;J81;
+Longfibrose;J841;
+Pneumothorax;J93;
+Pleurale uitstorting;J94;
+Ademhalingsinsufficiëntie, chronische-;J961;
+Longatelectase/-collaps;J981;
+Diafragmaverlamming;J986;
+Tand, doorbraak- en ontwikkelingsstoornissen;K00;
+Tand, cariës;K02;
+Tand, abrasie;K031;
+Tand, gingivitis en parodontitis;K05;
+Dentofaciale afwijkingen, malocclusie;K07;
+Retro-/prognatisme;K071;
+Openbeet/overbeet;K072;
+Speekselklieraandoeningen;K11;
+Tongafwijkingen;K14;
+Oesofagitis;K20;
+Gastro-oesofageale reflux;K21;
+Achalasie;K220;
+Slokdarmstenose;K222;
+Slokdarmdivertikel;K225;
+Slokdarmaandoeningen, overige;K22;
+Maagulcus;K25;
+Duodenumulcus;K26;
+Hernia inguinalis;K40;
+Hernia femoralis;K41;
+Hernia umbilicalis;K42;
+Hernia ventralis;K43;
+Hernia diafragmatica;K44;
+Crohn, ziekte van-;K50;
+Colitis ulcerosa;K51;
+Niet-infectieuze enteritis/colitis;K52;
+Vasculaire insufficiëntie intestinaal;K55;
+Paralytische ileus/intestinale obstructie;K56;
+Diverticulose/-itis;K57;
+Spastisch colon;K58;
+Intestinale functionele stoornissen;K59;
+Anus, fistels en fissuren;K60;
+Anus, prolaps;K62;
+Fistels intestinaal;K632;
+Leverziekte, alcoholische-;K70;
+Leverstoornissen, toxische;K71;
+Leverinsufficiëntie;K72;
+Levercirrhose en fibrose, primaire-;K74;
+Portale hypertensie;K766;
+Pancreatitis, chronische-;K86;
+Malabsorptie, intestinaal;K90;
+Pancreasinsufficiëntie, exocriene-;K903;
+Gastro-intestinale stoornissen postoperatief;K91;
+Dumping syndroom;K911;
+Huidinfecties (L00-L08);L00;
+Bulleuze huidaandoeningen (L10-L14);L10;
+Dermatitis atopische-;L20;
+Dermatitis allergisch contact-;L23;
+Dermatitis exfoliatief;L26;
+Jeuk (pruritus);L29;
+Dyshidrose;L301;
+Psoriasis;L40;
+Urticaria;L50;
+Erythema nodosum;L52;
+Dermatitis tgv bestraling;L58;
+Alopecia areata;L63;
+Zweetklierstoornis;L74;
+Decubitus ulcus;L89;
+Huidlitteken, adherent;L905;
+Huidlitteken, hypertrofisch/keloïd;L910;
+Bindweefselziekte, gelokaliseerd;L94;
+Reiter, ziekte van-;M023;
+Rheumatoïde arthritis;M05;
+Arthropathie, psoriatische/enteropatische;M07;
+Polyarthritis, juveniele vorm;M08;"Stoornis M08 - Polyarthritis, juveniele vorm (excl. M082) wijzigen
+
+Voor meer informatie en richtlijnen bij het invullen van deze stoornispagina kan u terecht op onze website(website opent in een nieuw tabblad).
+
+ 
+
+Diagnosestelling
+
+Datum diagnosestelling *
+
+ 
+
+open datum diagnosestelling datepicker
+
+Voeg de disciplines en namen toe van de personen die de diagnose gesteld hebben.
+
+ 
+
+Duid minimaal de volgende discipline(s) aan:
+
+ 
+
+Een arts
+
+ 
+
+Discipline toevoegen
+
+Discipline        Naam        Acties
+
+Geen disciplines gevonden
+
+Aantal items per pagina
+
+10
+
+1 - 0 van 0
+
+Als de diagnose niet door de correcte discipline is gesteld, motiveer waarom
+
+ 
+
+ 
+
+Diagnostische gegevens en/of andere onderzoeksgegevens
+
+Beschrijf de aandoening en de etiologie ervan *
+
+ 
+
+ 
+
+Vermeld de relevante en recente motorische onderzoeken (neurologisch onderzoek, EMG, beeldvorming, biopsie�) die uitgevoerd werden en de resultaten in het kader van de diagnosestelling.
+
+ 
+
+ 
+
+Onderzoek toevoegen
+
+Datum of periode van het onderzoek        Naam        Discipline        Type onderzoek        Resultaat onderzoek        Acties
+
+Geen onderzoeken gevonden
+
+Aantal items per pagina
+
+10
+
+1 - 0 van 0
+
+Vermeld de functies waarbij zich problemen stellen en objectiveer deze functiestoornissen met onderzoeksgegevens. Baseer u hiervoor op het meest recente motorisch en/of functioneel bilan en/of andere (para)medische verslagen.
+
+ 
+
+ 
+
+Functie toevoegen
+
+Functie        Datum        Discipline(s)        Testresultaten        Acties
+
+Geen onderzoeken gevonden
+
+Aantal items per pagina
+
+10
+
+1 - 0 van 0
+
+Vink de activiteiten aan waarbij zich problemen stellen en objectiveer deze met onderzoeksgegevens. Baseer u hiervoor zoveel mogelijk op het meest recente motorisch en/of functioneel bilan en/of andere (para)medische verslagen *
+
+Zitten ICF d4153
+
+Handhaven van de staande houding ICF d4154
+
+Stappen van korte afstanden binnen en rond de woning ICF d4500
+
+Stappen van korte afstanden buitenshuis (>300m, <1000m) ICF d4500
+
+Uitvoeren van transfers in en uit stoel of rolstoel ICF d4103, d4200
+
+Traplopen ICF d451
+
+Optillen en meenemen van voorwerpen ICF d430
+
+Gebruiken van arm en hand (trekken, duwen, reiken, ...) ICF d445
+
+Nauwkeurig gebruiken van hand: manipuleren (potlood, mes en vork, touchscreen, tandenborstel, kam, �) ICF d4402
+
+Problemen met andere activiteiten
+
+Beschrijf de testresultaten voor de aangevinkte activiteiten
+
+ 
+
+ 
+
+Onderzoek toevoegen
+
+Datum        Discipline(s)        Testresultaten        Acties
+
+Geen onderzoeken gevonden
+
+Aantal items per pagina
+
+10
+
+1 - 0 van 0
+
+Vermeld - indien van toepassing - de resultaten van onderzoeken naar niet-motorische problemen (cognitie, gedrag, spraakproblemen...)
+
+ 
+
+ 
+
+Onderzoek toevoegen
+
+Datum        Discipline(s)        Type onderzoek        Resultaat onderzoek        Acties
+
+Geen onderzoeken gevonden
+
+Aantal items per pagina
+
+10
+
+1 - 0 van 0
+
+Beperking en participatieproblemen
+
+Wat zijn de beperkingen en participatieproblemen ten gevolge van deze stoornis? *
+
+ 
+
+ 
+
+Behandelingen
+
+Beschrijf welke behandelingen er al zijn geweest of die nog lopende zijn
+
+ 
+
+ 
+
+Behandeling toevoegen
+
+Behandeling        Datum/Periode (& frequentie)        Omschrijving        Acties
+
+Geen onderzoeken gevonden
+
+Aantal items per pagina
+
+10
+
+1 - 0 van 0
+
+Beschrijf welke behandelingen niet mogelijk zijn en waarom
+
+ 
+
+ 
+
+Beschrijf welke behandelingen er al dan niet worden verwacht
+
+ 
+
+ 
+
+Prognose
+
+Beschrijf de prognose van de aandoening *
+
+ 
+
+ 
+
+Extra informatie
+
+Gaat het bij deze stoornis over een niet-aangeboren hersenletsel? *
+
+Extra informatie"
+Still, ziekte van-;M082;
+Jicht;M10;
+Chondrocalcinose;M11;
+Polyarthrose;M15;
+Coxarthrose;M16;
+Gonarthrose;M17;
+Arthrose eerste carpometacarpaal gewricht;M18;
+Arthrose NEG;M19;
+Vingers, verworven misvormingen;M200;
+Tenen, verworven misvormingen;M201;
+As- en standafwijkingen ledematen;M21;
+Valgusstand ledematen;M210;
+Varusstand ledematen;M211;
+Pes planus, verworven;M214;
+Klompvoet/klauwhand verworven;M215;
+Holvoet, verworven;M216;
+Lengteverschil ledematen;M217;
+Patella, recidiverende dislocaties;M220;
+Patella, recidiverende subluxaties;M221;
+Patello-femorale stoornissen;M222;
+Chondromalacia patellae;M224;
+Knie, meniscus-aandoeningen;M230;
+Knie, gewrichtsmuis;M234;
+Knie, chronische instabiliteit;M235;
+Knie, ligamentscheuren;M236;
+Gewrichtsmuis (andere gewrichten);M240;
+Gewrichtskraakbeenaandoening;M241;
+Gewrichtsligamentaandoening;M242;
+Gewrichtsdislocatie/subluxatie recidiverend;M244;
+Gewrichtscontractuur;M245;
+Gewrichtsankylose (niet-wervelkolom);M246;
+Haemarthrosis;M250;
+Gewrichtsfistel;M251;
+Gewrichtslaxiteit;M252;
+Gewrichtsinstabiliteit (excl. knie);M253;
+Gewrichtsuitstorting;M254;
+Gewrichtspijn;M255;
+Gewrichtsstijfheid;M256;
+Polyarteritis nodosa (PAN);M30;
+Nekrotiserende vaataandoening;M31;
+Goodpasture syndroom;M310;
+Thrombotische thrombocytopenische purpura;M311;
+Wegener granulomatose;M313;
+Takayasu ziekte;M314;
+Lupus erythematosus disseminatus;M32;
+Dermato(poly-)myositis;M33;
+Sclerodermie, CREST;M34;
+Bindweefselziekten, veralgemeend;M35;
+Sjögren syndroom;M350;
+Mixed connective tissue disease;M351;
+Behçet ziekte;M352;
+Polymyalgia rheumatica;M353;
+Hyperlaxiteit syndroom;M357;
+Kyfose en lordose;M40;
+Scoliose, verworven;M41;
+Osteochondrose wervelkolom;M42;
+Scheuermann en Calvé ziekte;M420;
+Spondylolyse;M430;
+Spondylolisthesis, verworven;M431;
+Wervelkolom, ankylose;M432;
+Torticollis;M436;
+Spondylitis ankylopoetica;M45;
+Spondylosis met myelopathie;M471;
+Spondylosis met radiculopathie;M472;
+Spondylosis zonder zenuwaantasting;M478;
+Spinaalstenose;M480;
+Pott ziekte;M490;
+Wervelcollaps (metastase);M495;
+Discusaandoening cervicaal + myelopathie;M501;
+Discusaandoening cervicaal + radiculopathie;M502;
+Discusaandoening cervicaal zonder zenuwaantasting;M509;
+Discusaandoening thoracolumbaal met myelopathie;M510;"Diagnosestelling
+
+Datum diagnosestelling *
+
+ 
+
+open datum diagnosestelling datepicker
+
+Voeg de disciplines en namen toe van de personen die de diagnose gesteld hebben.
+
+ 
+
+Duid minimaal de volgende discipline(s) aan:
+
+ 
+
+Een arts
+
+ 
+
+Discipline toevoegen
+
+Discipline        Naam        Acties
+
+Geen disciplines gevonden
+
+Aantal items per pagina
+
+10
+
+1 - 0 van 0
+
+Als de diagnose niet door de correcte discipline is gesteld, motiveer waarom
+
+ 
+
+ 
+
+Diagnostische gegevens en/of andere onderzoeksgegevens
+
+Beschrijf de aandoening en de etiologie ervan *
+
+ 
+
+ 
+
+Vermeld de relevante en recente motorische onderzoeken (neurologisch onderzoek, EMG, beeldvorming, biopsie�) die uitgevoerd werden en de resultaten in het kader van de diagnosestelling.
+
+ 
+
+ 
+
+Onderzoek toevoegen
+
+Datum of periode van het onderzoek        Naam        Discipline        Type onderzoek        Resultaat onderzoek        Acties
+
+Geen onderzoeken gevonden
+
+Aantal items per pagina
+
+10
+
+1 - 0 van 0
+
+Vermeld de functies waarbij zich problemen stellen en objectiveer deze functiestoornissen met onderzoeksgegevens. Baseer u hiervoor op het meest recente motorisch en/of functioneel bilan en/of andere (para)medische verslagen.
+
+ 
+
+ 
+
+Functie toevoegen
+
+Functie        Datum        Discipline(s)        Testresultaten        Acties
+
+Geen onderzoeken gevonden
+
+Aantal items per pagina
+
+10
+
+1 - 0 van 0
+
+Vink de activiteiten aan waarbij zich problemen stellen en objectiveer deze met onderzoeksgegevens. Baseer u hiervoor zoveel mogelijk op het meest recente motorisch en/of functioneel bilan en/of andere (para)medische verslagen *
+
+Zitten ICF d4153
+
+Handhaven van de staande houding ICF d4154
+
+Stappen van korte afstanden binnen en rond de woning ICF d4500
+
+Stappen van korte afstanden buitenshuis (>300m, <1000m) ICF d4500
+
+Uitvoeren van transfers in en uit stoel of rolstoel ICF d4103, d4200
+
+Traplopen ICF d451
+
+Optillen en meenemen van voorwerpen ICF d430
+
+Gebruiken van arm en hand (trekken, duwen, reiken, ...) ICF d445
+
+Nauwkeurig gebruiken van hand: manipuleren (potlood, mes en vork, touchscreen, tandenborstel, kam, �) ICF d4402
+
+Problemen met andere activiteiten
+
+Beschrijf de testresultaten voor de aangevinkte activiteiten
+
+ 
+
+ 
+
+Onderzoek toevoegen
+
+Datum        Discipline(s)        Testresultaten        Acties
+
+Geen onderzoeken gevonden
+
+Aantal items per pagina
+
+10
+
+1 - 0 van 0
+
+Vermeld - indien van toepassing - de resultaten van onderzoeken naar niet-motorische problemen (cognitie, gedrag, spraakproblemen...)
+
+ 
+
+ 
+
+Onderzoek toevoegen
+
+Datum        Discipline(s)        Type onderzoek        Resultaat onderzoek        Acties
+
+Geen onderzoeken gevonden
+
+Aantal items per pagina
+
+10
+
+1 - 0 van 0
+
+Beperking en participatieproblemen
+
+Wat zijn de beperkingen en participatieproblemen ten gevolge van deze stoornis? *
+
+ 
+
+ 
+
+Behandelingen
+
+Beschrijf welke behandelingen er al zijn geweest of die nog lopende zijn
+
+ 
+
+ 
+
+Behandeling toevoegen
+
+Behandeling        Datum/Periode (& frequentie)        Omschrijving        Acties
+
+Geen onderzoeken gevonden
+
+Aantal items per pagina
+
+10
+
+1 - 0 van 0
+
+Beschrijf welke behandelingen niet mogelijk zijn en waarom
+
+ 
+
+ 
+
+Beschrijf welke behandelingen er al dan niet worden verwacht
+
+ 
+
+ 
+
+Prognose
+
+Beschrijf de prognose van de aandoening *
+
+ 
+
+ 
+
+Extra informatie
+
+Gaat het bij deze stoornis over een niet-aangeboren hersenletsel? *
+
+Extra informatie"
+Discusaandoening thoracolumbaal met radiculopathie;M511;
+Discusaandoening thoracolumbaal zonder zenuwaantasting;M519;
+Wervelkolom, instabiliteit;M532;
+Coccygodynie;M533;
+Radiculopathie zonder discusaandoening;M541;
+Cervicalgie zonder discusaandoening;M542;
+Sciatalgie zonder discusaandoening;M543;
+Lumbo-ischialgie zonder discusaandoening;M544;
+Lumbago (low back pain);M545;
+Myositis;M60;
+Spiercalcificatie of -ossificatie;M61;
+Spiercontractuur;M624;
+Spieratrofie;M625;
+Synovitis en tenosynovitis;M65;
+Pees- of synoviascheur;M66;
+Achillespeesverkorting, verworven;M670;
+Peescontracturen;M671;
+Bursitis;M70;
+Dupuytren;M720;
+Fasciale fibromatose (plantair);M722;
+Periarthritis scapulohumeralis (frozen shoulder);M750;
+Rotator cuff syndroom;M751;
+Schouder, tendinitis bicepspees;M752;
+Schouder, calcificatie bicepspees;M753;
+Enthesopathie onderste ledematen;M76;
+Tendinitis patellapees;M765;
+Tendinitis achillespees;M766;
+Epicondylitis medialis (golfelleboog);M770;
+Epicondylitis lateralis (tenniselleboog);M771;
+Periarthritis pols;M772;
+Calcaneusspoor;M773;
+Metatarsalgie (excl. Morton);M774;
+Rheuma NEG (fibromyalgie);M790;
+Myalgie;M791;
+Osteoporose met fractuur;M80;
+Osteoporose zonder fractuur;M81;
+Osteomalacie;M83;
+Asafwijking na fractuur;M840;
+Pseudarthrose;M841;
+Osteomyelitis;M86;
+Osteonecrose;M87;
+Paget, ziekte van-;M88;
+Algodystrofie (Sudeck);M890;
+Ziekte van Marie-Bamberger;M894;
+Osteochondrose heup/bekken, juveniel;M91;
+Ziekte van Legg-Calvé-Perthes;M911;
+Coxa plana;M912;
+Osteochondrose andere beenderen;M92;
+Osteochondritis dissecans;M932;
+Postlaminectomie syndroom;M961;
+Glomerulonefritis, chronische-;N03;
+Nefrotisch syndroom;N04;
+Pyelonefritis, chronische-;N11;
+Hydronefrose;N13;
+Vesico-ureterale reflux, verworven;N137;
+Nefropathie tgv toxische stoffen;N14;
+Nierinsufficiëntie, chronische-;N18;
+Nierstenen;N20;
+Osteodystrofie, renaal;N250;
+Blaasdysfunctie, neuromusculair;N31;
+Blaashalsstenose;N32;
+Blaasfistel;N322;
+Urethrastricturen;N35;
+Incontinentie, stress-;N393;
+Incontinentie, overloop-/reflex-/urge-;N394;
+Impotentie (organisch);N484;
+Endometriose;N80;
+Fistels vrouwelijke genitale tractus;N82;
+Perineumletsels tgv bevalling;O70;
+Zwangerschapscomplicaties bij moeder, NEG;O71;
+Zuigeling aangetast door aandoening moeder;P00;
+Zuigeling aangetast door zwangerschapscomplicatie;P01;
+Zuigeling aangetast door placenta/navelstrengafwijkingen;P02;
+Zuigeling aangetast door complicaties arbeid/bevalling;P03;
+Zuigeling aangetast door schadelijke stoffen;P04;
+Prematuur;P07;
+Intracraniële bloeding geboortetrauma;P10;
+Centrale ZS geboortetrauma;P11;
+Perifere zenuwstelsel geboortetrauma;P14;
+Intra-uteriene hypoxie, sequelae;P20;
+Asfyxie bij geboorte;P21;
+Hyaliene membranen ziekte (RDS);P22;
+Bronchopulmonaire dysplasie;P27;
+Longatelectase zuigeling;P280;
+Slaap-apneu syndroom zuigeling;P283;
+Virale aandoening, congenitaal;P35;
+Congenitale infecties overige;P37;
+Intracraniële bloeding niet-traumatisch zuigeling;P52;
+Hemolytische aandoening foetus/zuigeling;P55;
+Kernicterus;P57;
+Enterocolitis necrotiserend;P77;
+Hypothermie zuigeling;P80;
+Hyperthermie zuigeling;P81;
+Convulsies;P90;
+Periventriculaire cysten;P911;
+Cerebrale leucomalacie;P912;
+Cerebrale ischemie neonataal;P910;
+Voedingsproblemen zuigeling;P92;
+Spiertonusafwijkingen zuigeling;P94;
+Encephalocele;Q01;
+Microcephalie;Q02;
+Hydrocefalie, congenitaal;Q03;
+Afwijkingen corpus callosum;Q040;
+Agenesie/lissencefalie/microgyrie/pachygyrie;Q043;
+Cerebrale cysten, congenitaal;Q046;
+Macrogyrie;Q048;
+Spina Bifida;Q05;
+Arnold-Chiari syndroom;Q070;
+Ooglid/traanapparaat afwijkingen;Q10;
+Microfthalmie;Q11;
+Cataract congenitaal;Q120;
+Afakie congenitaal;Q123;
+Coloboma lens;Q122;
+Aniridie congenitaal;Q131;
+Coloboma iris;Q130;
+Cornea-misvormingen;Q13;
+Vitreum/retina/choroidea afwijkingen;Q14;
+Glaucoom congenitaal;Q15;
+Oor, congenitale afwijkingen met gehoorstoornissen;Q16;
+Oor, congenitale afwijkingen overige;Q17;
+Hoofd-en-nek afwijkingen;Q18;
+Hartkamers en verbindingen afwijkingen;Q20;
+Hartseptumafwijkingen;Q21;
+Ventrikelseptumdefect;Q210;
+Atriumseptumdefect;Q211;
+Tetralogie van Fallot;Q213;
+Eisenmenger syndroom;Q218;
+Pulmonalis-/tricuspidalis klepafwijkingen;Q22;
+Aorta- en tricuspidalisklep afwijkingen;Q23;
+Ductus Botalli blijvend;Q250;
+Coarctatio aortae;Q251;
+Pulmonalisstenose;Q256;
+Grote aders, congenitale misvormingen;Q26;
+Perifeer bloedvaten afwijkingen;Q27;
+Cerebrale aneurysmata/AVM;Q28;
+Neus misvormingen;Q30;
+Larynx misvormingen;Q31;
+Trachea/bronchi misvormingen;Q32;
+Bronchomalacie congenitaal;Q320;
+Long misvormingen;Q33;
+Gespleten gehemelte;Q35;
+Gespleten lip;Q36;
+Gespleten lip en gehemelte;Q37;
+Tong/mond/pharynx afwijkingen;Q38;
+Slokdarm, congenitale afwijkingen;Q39;
+Maag en duodenum, congenitale afwijkingen;Q40;
+Dunne darm afwijkingen congenitaal;Q41;
+Aangeboren afwijkingen dikke darm;Q42;
+Divertikel van Meckel;Q430;
+Hirschsprung;Q431;
+Lever, galblaas/wegen afwijkingen;Q44;
+Pancreas congenitale afwijkingen;Q45;
+Geslachtsorganen vrouwelijke, congenitale afwijkingen;Q52;
+Geslachtsorganen mannelijke, congenitale afwijkingen;Q55;
+Nieren, agenesie;Q60;
+Polykystische nieren;Q61;
+Hydronefrose congenitaal;Q620;
+Vesico-ureterale reflux congenitaal;Q627;
+Afwijkingen nierbekken en ureter congenitaal;Q62;
+Blaas en urethra, congenitale afwijkingen;Q64;
+Epispadias;Q640;
+Blaasextrofie;Q641;
+Heupafwijkingen congenitaal (incl. heupluxatie);Q65;
+Coxa vara/valga congenitaal;Q658;
+Voet, congenitale afwijkingen;Q66;
+Hoofd/aangezicht/skedel/borst afwijkingen;Q67;
+Houdingsscoliose congenitaal;Q675;
+Pectus excavatum;Q676;
+Pectus carinatum;Q677;
+Skelet en spieren congenitale afwijkingen;Q68;
+Sternocleidomastoideus afwijking congenitaal;Q680;
+Handafwijkingen congenitaal;Q681;
+Knieafwijkingen congenitaal;Q682;
+Polydactylie;Q69;
+Syndactylie;Q70;
+Armverkorting congenitaal;Q71;
+Beenverkorting congenitaal;Q72;
+Arthrogryposis congenita multiplex;Q743;
+Schedel/aangezichtsbeenderen afwijkingen;Q75;
+Crouzon syndroom;Q751;
+Macrocefalie;Q753;
+Hypertelorisme;Q752;
+Craniosynostose;Q750;
+Spina bifida occulta;Q760;
+Klippel-Feil syndroom;Q761;
+Spondylolisthesis congenitaal;Q762;
+Scoliose door benige misvorming;Q763;
+Wervelkolom afwijkingen congenitaal;Q764;
+Osteochondrodysplasie pijpbeenderen;Q77;
+Achondroplasie;Q774;
+Osteochondrodysplasie NEG;Q78;
+Osteogenesis imperfecta;Q780;
+Albright syndroom;Q781;
+Osteopetrose;Q782;
+Camurati-Engelmann syndroom;Q783;
+Enchondromatose;Q784;
+Multipele congenitale exostosis;Q786;
+Hernia diafragmatica congenitaal;Q790;
+Gastroschisis;Q793;
+Ehlers-Danlos syndroom;Q796;
+Ichthyosis congenitaal;Q80;
+Epidermolysis bullosa;Q81;
+Lymfoedeem congenitaal;Q820;
+Xeroderma pigmentosum;Q821;
+Naevus congenitaal;Q825;
+Cutis laxa;Q828;
+Alopecia congenitaal;Q840;
+Facomatosen;Q85;
+Neurofibromatose (Von Recklinghausen);Q850;
+Tubereuze sclerose (Bourneville);Q851;
+Von Hippel-Lindau / Peutz-Jeghers / Sturge-Weber;Q858;
+Aangeboren afwijkingen door exogene oorzaken;Q86;
+Foetaal alcoholsyndroom;Q860;
+Goldenhar / Möbius / Robin syndroom;Q870;
+Aarskog / Cockayne / Noonan / Prader-Willi syndroom;Q871;
+Limbaal-extremiteit syndromen (Rubinstein-Taybi, Weber…);Q872;
+Sotos syndroom;Q873;
+Marfan syndroom;Q874;
+Alport syndroom;Q878;
+Downsyndroom;Q90;
+Trisomie (overig);Q91;
+Deleties/monosomie chromosomen;Q93;
+Cri-du-chat syndroom;Q934;
+Turner syndroom;Q96;
+Vrouwelijke sexchromosoomafwijking;Q97;
+Mannelijke sexchromosoomafwijking;Q98;
+Fragiel X syndroom;Q992;
+Gespecificeerde chromosoomafwijkingen;Q998;
+Hik;R066;
+Fecale incontinentie organisch;R15;
+Gevoelsstoornissen huid;R20;
+Onwillekeurige bewegingen hoofd;R250;
+Tremor (niet-essentieel);R251;
+Spierkrampen/spasmen;R252;
+Spierfasciculaties;R253;
+Ataxie (niet-aangeboren);R260;
+Coördinatiestoornis NEG;R270;
+Tetanie;R29;
+Urinaire incontinentie (niet neurogeen);R32;
+Urineretentie;R33;
+Coma en stupor;R40;
+Verwardheid/desoriëntatie;R410;
+Amnesie anterograde;R411;
+Amnesie retrograde;R412;
+Leeftijdsgebonden cognitieve achteruitgang;R418;
+Duizeligheid en vertigo;R42;
+Dysfasie/afasie;R470;
+Dysarthrie/anarthrie;R471;
+Dysfonie;R490;
+Afonie;R491;
+Hyperhydrose;R61;
+HIV-seropositiviteit;R75;
+Schedel- of aangezichtsfracturen;S02;
+Craniale zenuwletsel;S04;
+Traumatisch oog-/oogkasletsel;S05;
+Hersenschudding;S060;
+Traumatisch hersenoedeem;S061;
+Diffuus hersenletsel;S062;
+Epidurale/extradurale bloeding, traumatisch;S064;
+Traumatische subdurale bloeding;S065;
+Traumatische subarachnoïdale bloeding;S066;
+Intracranieel letsel met aanhoudend coma;S067;
+Fractuur halswervels;S12;
+Distorsie cervicale wervelkolom (whiplash);S134;
+Letsel plexus brachialis;S143;
+Fractuur thoracale wervels/ribben/sternum;S22;
+Ruggemergletsel thoracaal;S24;
+Hartletsel traumatisch;S25;
+Pneumothorax traumatisch;S27;
+Fractuur lumbale wervels;S320;
+Fractuur sacrum;S321;
+Fractuur coccyx;S322;
+Fractuur bekken;S323;
+Ruggemergletsel lumbaal;S340;
+Cauda equina syndroom traumatisch;S343;
+Letsel plexus lumbosacralis;S344;
+Fractuur schoudergordel;S42;
+Luxatie schouder;S43;
+Zenuwletsel schouder/bovenarm;S44;
+Amputatie schouder/bovenarm;S48;
+Fractuur voorarm;S52;
+Luxatie elleboog;S53;
+Zenuwletsel voorarm;S54;
+Bloedvatenletsel voorarm;S55;
+Spier-/peesletsel voorarm;S56;
+Verbrijzeling voorarm;S57;
+Amputatie voorarm;S58;
+Fractuur pols en hand;S62;
+Luxatie pols en vingers;S63;
+Zenuwletsel pols/hand;S64;
+Bloedvatenletsel pols/hand;S65;
+Spier-/peesletsel pols/hand;S66;
+Verplettering pols/hand;S67;
+Amputatie duim;S680;
+Amputatie één vinger;S681;
+Amputatie meerdere vingers;S682;
+Amputatie pols;S684;
+Fractuur femur;S72;
+Luxatie heup;S73;
+Zenuwletsel heup/dij;S74;
+Bloedvatenletsel heup/dij;S75;
+Spier-/peesletsel heup/dij;S76;
+Verplettering heup/dij;S77;
+Amputatie heupgewricht;S780;
+Amputatie femurschacht;S781;
+Fractuur patella;S820;
+Fractuur tibiaplateau;S821;
+Fractuur tibiaschacht, traumatisch;S822;
+Fractuur malleolus medialis;S825;
+Fractuur malleolus lateralis;S826;
+Luxatie of subluxatie knie;S83;
+Meniscusletsel knie, traumatisch;S832;
+Zenuwletsel onderbeen;S84;
+Bloedvatenletsel onderbeen;S85;
+Spier- of peesletsel onderbeen;S86;
+Verplettering onderbeen;S87;
+Amputatie door kniegewricht;S880;
+Amputatie door tibia;S881;
+Fractuur voet (tarsus, metatarsus, phalanges);S92;
+Luxatie enkel en voet;S93;
+Zenuwletsel enkel of voet;S94;
+Bloedvatenletsel enkel of voet;S95;
+Spier- of peesletsel enkel of voet;S96;
+Verplettering enkel of voet;S97;
+Amputatie voet thv enkel;S980;
+Amputatie deel van de voet;S984;
+Amputatie beide armen;T052;
+Amputatie beide benen;T055;
+Amputatie bovenste én onderste ledematen;T056;
+Brandwonden hoofd en hals;T20;
+Brandwonden romp;T21;
+Brandwonden schouder en arm;T22;
+Brandwonden pols en hand;T23;
+Brandwonden heup en been;T24;
+Brandwonden enkel en voet;T25;
+Brandwonden oog en aanhangsels;T26;
+Brandwonden luchtwegen;T27;
+Brandwonden inwendige organen (niet T27);T28;
+Brandwonden <10% lichaamsoppervlakte;T310;
+Brandwonden 10–19%;T311;
+Brandwonden 20–29%;T312;
+Brandwonden 30–39%;T313;
+Brandwonden 40–49%;T314;
+Brandwonden 50–59%;T315;
+Brandwonden 60–69%;T316;
+Brandwonden 70–79%;T317;
+Brandwonden 80–89%;T318;
+Brandwonden ≥90%;T319;
+Koudeletsels;T35;
+Intoxicatie medicatie/drugs/biologische stoffen;T50;
+Intoxicatie niet-medicinale stoffen;T51;
+Sequellen koolmonoxide-intoxicatie;T58;
+Bestralingsziekte;T66;
+Hitteslag;T67;
+Hypothermie, sequellen;T68;
+Barotrauma;T70;
+Asfyxie (niet T58 of P21);T71;
+Gevolgen van deprivatie (honger/dorst/uitputting);T73;
+Verwaarlozing;T740;
+Mishandeling, fysiek;T741;
+Mishandeling, seksueel;T742;
+Mishandeling, psychisch;T743;
+Bijna-verdrinking, sequellen;T751;
+Vibratieletsels;T752;
+Elektrocutieletsels;T754;
+Gevolgen van gewichtloosheid/Zwaartekrachtvariatie;T758;
+Luchtembool traumatisch;T790;
+Vetembool traumatisch;T791;
+Shock traumatisch;T794;
+Crushsyndroom/anurie;T795;
+Spierischemie traumatisch;T796;
+Complicatie infusie/transfusie/injectie;T80;
+Complicaties cardiale/vaskulaire prothesen;T82;
+Complicaties genito-urinaire prothesen;T83;
+Complicaties orthopedische implantaten;T84;
+Complicaties inwendige implantaten NEG;T85;
+Rejectie/mislukken orgaantransplantatie;T86;
+Complicatie amputatie/reconstructie;T87;
+Neurinoma amputatiestomp;T873;
+Complicatie immunisatie;T880;
+Complicatie anesthesie;T882;
+Complicatie medicatie;T886;
+Hoofd, sequellen open wonden;T900;
+Hals en romp, sequellen open wonden;T910;
+Bovenste lidmaat, sequellen open wonden;T920;
+Onderste lidmaat, sequellen open wonden;T930;
+Borstprothese;Z443;
+Uitwendige prothese NEG;Z448;
+Nierdialyse;Z49;
+Acculturatieprobleem;Z603;
+Relationele problemen;Z63;
+Antisociaal gedrag;Z728;
+Simulatie;Z765;
+Verworven afwezigheid deel hoofd/hals;Z900;
+Borstamputatie;Z901;
+Longamputatie;Z902;
+Gastrectomie;Z903;
+Amputatie deel spijsverteringsstelsel;Z904;
+Nefrectomie;Z905;
+Resectie urinewegen;Z906;
+Amputatie genitalia;Z907;
+Niet meewerken aan behandeling;Z911;
+Tracheostomie;Z930;
+Gastrostomie;Z931;
+Ileostomie;Z932;
+Colostomie;Z933;
+Cystostomie;Z935;
+Nefrostomie/ureterostomie/urethrostomie;Z936;
+Stomie NEG;Z938;
+Niertransplantatie;Z940;
+Harttransplantatie;Z941;
+Longtransplantatie;Z942;
+Hart-longtransplantatie;Z943;
+Levertransplantatie;Z944;
+Huidtransplantatie;Z945;
+Bottransplantatie;Z946;
+Corneatransplantatie;Z947;
+Transplantatie NEG;Z948;
+Vasculaire implantaten/enten;Z95;
+Pacemaker;Z950;
+Hartklepprothese;Z952;
+Urogenitale implantaten;Z960;
+Lensimplantaat;Z961;
+Cochleaire prothese;Z962;
+Larynxprothese;Z963;
+Insulinepomp (inwendig);Z964;
+Tand- en mandibulaire implantaten;Z965;
+Gewrichtsprothese;Z966;
+Implantaat NEG;Z968;
+Kunstoog;Z970;
+Prothese lidmaat;Z971;
+Tandprothese;Z972;
+Contactlenzen en brillen;Z973;
+Gehoorprothese, uitwendig;Z974;
+Intestinale bypass;Z980;
+Arthrodese;Z981;
+Cerebrospinaal drainagesysteem (Holter);Z982;
+Respirator-afhankelijkheid;Z99;
+Aspiratie-afhankelijkheid;Z990;
+Dialyse-afhankelijkheid;Z992;
+Rolstoelafhankelijkheid;Z993;
