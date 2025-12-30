@@ -36,10 +36,14 @@ def render_module_a_section():
 
             with st.expander("📄 Vragenblok (Module A)", expanded=False):
                 st.markdown(
-                    f"<div style='padding:10px;border-left:3px solid #999;background:#fafafa'>"
-                    f"{vragenblok.replace(chr(10), '<br>')}</div>",
-                    unsafe_allow_html=True
-                )
+                        f"""
+                        <div class="vragenblok">
+                            {vragenblok.replace(chr(10), '<br>')}
+                        </div>
+                        """,
+                        unsafe_allow_html=True
+                    )
+
 
             if st.button(f"🚀 Genereer antwoorden voor {code}", key=f"gen_{code}"):
 
@@ -75,14 +79,7 @@ Vragen voor module A:
                 with st.expander("🧠 Antwoorden (gegenereerd)", expanded=True):
                     st.markdown(
                         f"""
-                        <div style="
-                            border:1px solid #4a90e2;
-                            padding:12px;
-                            border-radius:8px;
-                            background-color:#f0f7ff;
-                            white-space:pre-wrap;
-                            font-family:monospace;
-                        ">
+                        <div class="llm-output">
                         {st.session_state[f"output_{code}"]}
                         </div>
                         """,
