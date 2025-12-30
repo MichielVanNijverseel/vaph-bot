@@ -50,5 +50,13 @@ def list_available_codes():
     return df["stoorniscode"].astype(str).tolist()
 
 
+def reset_questions():
+    """
+    Reset the cached questions dataframe to force reload from CSV.
+    """
+    global _df
+    _df = None
+
+
 # print(get_questions_for_code("M08"))
 

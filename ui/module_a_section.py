@@ -2,6 +2,7 @@ import streamlit as st
 from utils.llm import run_chat, load_prompt
 from utils.vaph_questions import get_questions_for_code
 from logic.context_builder import get_patient_context
+from utils.pdf_generator import generate_pdf_for_code
 
 def render_module_a_section():
     codes = st.session_state.get("selected_codes")
@@ -88,10 +89,28 @@ Vragen voor module A:
                         unsafe_allow_html=True
                     )
 
-                st.download_button(
-                    label=f"📥 Download rapport voor {code}",
-                    data=st.session_state[f"output_{code}"],
-                    file_name=f"VAPH_ModuleA_{code}.txt",
-                    mime="text/plain",
-                    key=f"dl_{code}"
-                )
+                # Download buttons in columns
+                col1, col2 = st.columns(2)
+                
+                with col1:
+                    st.download_button(
+                        label=f"📄 Download TXT voor {code}",
+                        data=st.session_state[f"output_{code}"],
+                        file_name=f"VAPH_ModuleA_{code}.txt",
+                        mime="text/plain",
+                        key=f"dl_txt_{code}"
+                    )
+                
+                with col2:
+                    # Generate PDF
+                    pdf_buffer = generate_pdf_for_code(
+                        st.session_state[f"output_{code}"],
+                        code
+                    )
+                    st.download_button(
+                        label=f"📑 Download PDF voor {code}",
+                        data=pdf_buffer.getvalue(),
+                        file_name=f"VAPH_ModuleA_{code}.pdf",
+                        mime="application/pdf",
+                        key=f"dl_pdf_{code}"
+                    )
