@@ -15,12 +15,16 @@ from ui.stoornis_section import render_stoornis_section
 from ui.module_a_section import render_module_a_section
 from ui.navigation import handle_scroll_navigation
 from logic.session import init_session_state
+from ui.theme import inject_dark_mode_fix
+
 init_session_state()
 
 # ----------------------------------------------------------------
 # ⭐ Streamlit App
 # ----------------------------------------------------------------
 st.set_page_config(page_title="VAPH Analyzer", layout="wide")
+
+inject_dark_mode_fix()
 
 render_layout()
 render_collapse_button()
