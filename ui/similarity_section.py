@@ -24,7 +24,7 @@ def render_similarity_section():
         return
 
     st.markdown('<a id="candidates_section"></a>', unsafe_allow_html=True)
-    st.subheader("2️⃣ Kandidaten uit similarity search")
+    st.subheader("2️⃣ Kandidaten uit similarity search - top 15 na eerste indruk")
 
     for c in candidates:
         st.write(f"- **{c['name']}** – {c['code']}")

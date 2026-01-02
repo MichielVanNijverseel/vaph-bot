@@ -7,7 +7,7 @@ from logic.normalize_context import normalize_patient_context
 
 def render_ocr_section():
     uploaded_files = st.file_uploader(
-        "📄 Upload medische verslagen (PDF)",
+        "📄 Upload medische verslagen (PDF, Word, Docx, Txt)",
         type=["pdf", "word", "docx", "txt"],
         accept_multiple_files=True
     )

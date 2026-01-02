@@ -58,5 +58,47 @@ def reset_questions():
     _df = None
 
 
+def get_stoornis_info(code: str):
+    """
+    Get stoornis name and validate code exists in CSV.
+    Returns dict with 'code', 'name', 'exists' or None if not found.
+    """
+    df = load_questions()
+    code = str(code).strip()
+    
+    row = df[df["stoorniscode"].astype(str).str.strip() == code]
+    
+    if row.empty:
+        return None
+    
+    return {
+        "code": code,
+        "name": str(row.iloc[0].get("stoornisnaam", "")),
+        "exists": True
+    }
+
+
+def get_all_stoornissen():
+    """
+    Get all stoornissen from CSV with code and name.
+    Returns list of dicts with 'code' and 'name'.
+    """
+    df = load_questions()
+    stoornissen = []
+    
+    for _, row in df.iterrows():
+        code = str(row["stoorniscode"]).strip()
+        name = str(row.get("stoornisnaam", "")).strip()
+        if code and name:
+            stoornissen.append({
+                "code": code,
+                "name": name
+            })
+    
+    # Sort by code
+    stoornissen.sort(key=lambda x: x["code"])
+    return stoornissen
+
+
 # print(get_questions_for_code("M08"))
 

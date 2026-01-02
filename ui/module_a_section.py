@@ -1,6 +1,6 @@
 import streamlit as st
 from utils.llm import run_chat, load_prompt
-from utils.vaph_questions import get_questions_for_code
+from utils.vaph_questions import get_questions_for_code, get_stoornis_info
 from logic.context_builder import get_patient_context
 from utils.pdf_generator import generate_pdf_for_code
 
@@ -12,22 +12,39 @@ def render_module_a_section():
     st.markdown('<a id="moduleA_section"></a>', unsafe_allow_html=True)
     st.subheader("4️⃣ VAPH Module A per stoornis")
 
+    # Create display strings with names for tabs only
+    code_display_strings = []
+    for code in codes:
+        stoornis_info = get_stoornis_info(code)
+        if stoornis_info:
+            code_display_strings.append(f"{code} - {stoornis_info['name']}")
+        else:
+            code_display_strings.append(code)
+    
+    # Show only codes (no names) in the summary line
     st.write("Geselecteerde codes:", ", ".join(codes))
 
     vaph_system = load_prompt("prompts/vaph_system.txt")
 
-    if st.button("🔄 Herlaad stoornisvragen CSV"):
-        from utils.vaph_questions import reset_questions
-        reset_questions()
-        st.success("Stoornisvragen herladen!")
+    # if st.button("🔄 Herlaad stoornisvragen CSV"):
+    #     from utils.vaph_questions import reset_questions
+    #     reset_questions()
+    #     st.success("Stoornisvragen herladen!")
 
     st.divider()
 
-    tabs = st.tabs(codes)
+    tabs = st.tabs(code_display_strings)
 
     for idx, code in enumerate(codes):
         with tabs[idx]:
-            st.markdown(f"## 📌 Stoorniscode **{code}**")
+            # Get stoornis name for display
+            stoornis_info = get_stoornis_info(code)
+            if stoornis_info:
+                display_name = f"**{code}** - {stoornis_info['name']}"
+            else:
+                display_name = f"**{code}**"
+            
+            st.markdown(f"## 📌 Stoorniscode {display_name}")
 
             vragenblok = get_questions_for_code(code)
             if not vragenblok:
@@ -45,7 +62,10 @@ def render_module_a_section():
                     )
 
 
-            if st.button(f"🚀 Genereer antwoorden voor {code}", key=f"gen_{code}"):
+            # Button label - just code, no name
+            button_label = f"🚀 Genereer antwoorden voor {code}"
+            
+            if st.button(button_label, key=f"gen_{code}"):
 
                 progress = st.progress(0)
                 log = st.empty()
@@ -88,6 +108,10 @@ Vragen voor module A:
 
                 # Download buttons in columns
                 col1, col2 = st.columns(2)
+                
+                # Get name for download buttons
+                stoornis_info = get_stoornis_info(code)
+                stoornis_name = stoornis_info['name'] if stoornis_info else code
                 
                 with col1:
                     st.download_button(
